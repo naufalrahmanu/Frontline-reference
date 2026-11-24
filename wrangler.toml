@@ -1,15 +1,21 @@
-# Cloudflare Pages project configuration.
+# Cloudflare deploy configuration.
 #
-# The site is a pure static build: no functions, no server, no environment variables.
-# In the Pages dashboard, point the project at this repo with build command `npm run build`
-# and output directory `dist`.
+# This project deploys as a **Worker with static assets**: `npx wrangler deploy` uploads the
+# contents of dist/ and serves them. That is why the [assets] block below is required — without
+# it Wrangler reports "Missing entry-point to Worker script or to assets directory" and the
+# deploy fails, even though the build itself succeeded.
 #
-# SPA fallback lives in public/_redirects, which Cloudflare copies into dist/ - it is not
-# expressible here.
+# The site has no server-side code: no Worker script, no functions, no environment variables.
+# It is a pure static bundle, so `main` is deliberately absent. Wrangler 4 supports an
+# assets-only Worker.
 
 name = "frontline-reference"
 compatibility_date = "2026-11-01"
 
-[build]
-command = "npm run build"
-cwd = "/"
+[assets]
+# Vite writes the production bundle here (see vite.config.ts / build.outDir default).
+directory = "./dist"
+
+# Client-side routing: every route is rendered by the SPA, so a direct hit on /dolls/kar98k must
+# serve index.html rather than a 404. Real files in dist/ still take precedence over this rule.
+not_found_handling = "single-page-application"
