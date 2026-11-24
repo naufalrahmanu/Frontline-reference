@@ -4,7 +4,7 @@
 # In the Pages dashboard, point the project at this repo with build command `npm run build`
 # and output directory `dist`.
 #
-# SPA fallback lives in public/_redirects, which Cloudflare copies into dist/ — it is not
+# SPA fallback lives in public/_redirects, which Cloudflare copies into dist/ - it is not
 # expressible here.
 
 name = "frontline-reference"
