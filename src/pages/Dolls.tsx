@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import { enDolls } from "../lib/data.ts";
+import { enDolls, skillSummary } from "../lib/data.ts";
 import { CLASSIFICATIONS, type Classification, type Doll } from "../lib/dolls.ts";
 import type { StatRange } from "../lib/dolls.ts";
 import { buffedPositions } from "../lib/echelon.ts";
@@ -122,6 +122,7 @@ export function Dolls() {
               <Th sort={sort} setSort={setSort} k="rof" label="RoF" />
               <Th sort={sort} setSort={setSort} k="mov" label="Mov" />
               <th scope="col">Tiles</th>
+              <th scope="col">Skill</th>
             </tr>
           </thead>
           <tbody>
@@ -151,6 +152,7 @@ export function Dolls() {
                 <td className="num">{maxOf(doll.stats.rof)}</td>
                 <td className="num">{doll.stats.mov ?? "—"}</td>
                 <td className="faint small">{tileCount(doll)}</td>
+                <td className="faint small">{primarySkillName(doll)}</td>
               </tr>
             ))}
           </tbody>
@@ -216,4 +218,12 @@ function tileCount(doll: Doll): string {
   const n = buffedPositions(doll).length;
   if (n === 0) return "none";
   return `${n} tile${n === 1 ? "" : "s"}`;
+}
+
+/** The doll's primary skill name, so the list shows what she actually does. */
+function primarySkillName(doll: Doll): string {
+  const entry = skillSummary(doll);
+  if (!entry) return "—";
+  if (entry.placeholder) return "no data";
+  return entry.name ?? "—";
 }

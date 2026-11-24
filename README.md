@@ -33,13 +33,15 @@ npm run preview      # serve dist/ on :4173
 These are the release gates. `npm run check` runs all the offline ones in order.
 
 ```bash
-npm run check               # everything below except verify:dolls
+npm run check               # everything below except the network verifiers
 npm run typecheck           # tsc --noEmit
 npm run data:verify         # formula engine vs. all 4,004 spreadsheet values
 npm run check:echelon       # tile geometry and aura parsing (70 assertions)
 npm run check:presets       # every shipped formation actually buffs someone
+npm run check:skills        # skill rendering: every skill at all 10 levels (19,307 assertions)
 npm run check:render        # SSR every route, assert real data appears
-npm run verify:dolls        # compare the doll dataset against IOP Wiki (~5 min, network)
+npm run verify:dolls        # doll dataset vs. IOP Wiki (~5 min, network)
+npm run verify:skills       # skill dataset vs. all 623 wiki pages (~8 min, network)
 ```
 
 `check:echelon` and `check:presets` exist for a specific reason: the tile-buff engine is the one
@@ -94,27 +96,52 @@ The verifier is deliberately a **separate parser** reading rendered HTML, so a p
 verify itself. It has already caught three real ones — a truncated field boundary, artist templates
 being dropped, and `N/A` stats parsing as zero.
 
+### Skills — `src/data/skills.json`
+
+```bash
+npm run data:skills              # IOP Wiki subpages -> src/data/skills.json
+npm run verify:skills            # compare all 623 entries against the wiki (~8 min, network)
+```
+
+Skills are **not** on the doll page. They live on subpages (`<Doll>/skilldata`,
+`<Doll>/skilldata/mod1`, `<Doll>/skill2data`) as `gf-table` markup: `name`/`icon`/`text` are single
+values, every other row is a ten-value per-level curve, and the description carries `($placeholder)`
+tokens pointing at those curves. That is why the doll page has a level selector — it is substituting
+different numbers into the same sentence.
+
+Coverage: 623 entries across 459 of 460 dolls, including 82 MOD1 variants. KGP-9 has no skill page on
+the wiki; K7's is an unfinished placeholder and is labelled as such rather than presented as data.
+
+Three source irregularities are handled explicitly, each of which silently produced wrong output
+before being found: values that begin on the line *after* the pipe (empty descriptions), values that
+are slash-separated bands like `1.8/0.7/0.4` (unresolved placeholders in prose), and pages whose
+content is literally the word "Placeholder".
+
 ## Repository layout
 
 ```
 scripts/
   build-maps.py          xlsx -> maps.json
   fetch-dolls.mjs        IOP Wiki -> dolls.json
+  fetch-skills.mjs       IOP Wiki subpages -> skills.json
   build-sitemap.mjs      data -> sitemap.xml
   verify-formulas.ts     engine vs. spreadsheet (4,004 comparisons)
   verify-dolls.mjs       dataset vs. rendered wiki pages
+  verify-skills.mjs      dataset vs. all 623 wiki skill pages
   check-echelon.ts       tile geometry and aura parsing (70 assertions)
   check-presets.ts       every shipped formation actually buffs someone
+  check-skills.ts        skill rendering at all 10 levels
   render-check.mjs       SSR every route, assert data is present
   render-entry.tsx       SSR entry used by render-check
   snapshot.mjs           write standalone HTML previews to .snapshots/
 src/
   lib/farming.ts         the autobattle formula engine
   lib/echelon.ts         tile geometry, aura parsing, buff aggregation
-  lib/dolls.ts           doll types
-  lib/data.ts            static data access
+  lib/skills.ts          skill placeholder substitution and grouping
+  lib/dolls.ts           doll and skill types
+  lib/data.ts            static data access, merges skills into dolls
   pages/                 one file per route
-  components/            TileGrid, DataStamp
+  components/            TileGrid, SkillPanel, DataStamp
   data/                  generated JSON (CC BY-SA 3.0) — see LICENSE-DATA.md
 ```
 

@@ -37,11 +37,29 @@ const CASES = [
   },
   {
     route: "/dolls/kar98k",
-    must: ["Kar98k", "RF", "Stats", "Tiles", "Aura", "Coverage by position", "iopwiki.com"],
+    must: [
+      "Kar98k",
+      "RF",
+      "Stats",
+      "Tiles",
+      "Aura",
+      "Skills",
+      "Chain Shot",
+      "Crown of Shackles",
+      "Cooldown",
+      "Coverage by position",
+      "iopwiki.com",
+    ],
   },
   {
     route: "/dolls/m4a1",
-    must: ["M4A1", "Affects assault rifles", "Coverage by position"],
+    must: ["M4A1", "Affects assault rifles", "Damage Focus T", "Mark of Vengeance", "Coverage by position"],
+  },
+  {
+    // K7's skill page on the wiki is an unfinished placeholder; the site must say so rather than
+    // present it as real data.
+    route: "/dolls/k7",
+    must: ["K7", "Skills"],
   },
   {
     route: "/dolls/px4-storm",

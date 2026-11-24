@@ -58,11 +58,70 @@ export interface Doll {
   craftTime: string | null;
   artist: string | null;
   releasedOnEN: boolean;
+  /**
+   * Skills live in a separate dataset (`src/data/skills.json`) keyed by doll slug, because they
+   * come from different wiki pages and are fetched by a separate script. This field is populated
+   * at load time in `data.ts`, not by the doll extractor.
+   */
+  skills?: DollSkill[];
   /** Reserved for v1.1; always null in v1. See SPEC §6. */
   portrait: string | null;
   /** Wiki file name the portrait would come from, kept so v1.1 needs no re-crawl. */
   portraitSource: string | null;
   source: string;
+}
+
+/**
+ * One skill, from one wiki subpage.
+ *
+ * A doll can have several: the base skill (`skilldata`), the MOD2 secondary skill
+ * (`skill2data`), and per-MOD variants of either (`skilldata/mod1`, …). Numeric rows are
+ * per-level curves — the wiki lists ten values, one per skill level.
+ */
+export interface DollSkill {
+  /** Which subpage kind this came from. */
+  source: string;
+  /** "base", or "mod1"/"mod2"/"mod3" for a Neural Upgrade variant. */
+  tier: string;
+  /** 1 = primary skill, 2 = the secondary skill unlocked at MOD2. */
+  slot: number;
+  name: string;
+  icon: string | null;
+  /** Description with ($placeholder) tokens intact, exactly as the wiki writes it. */
+  text: string;
+  /** Placeholder names referenced by the text, e.g. ["min_dam_value", "max_dam_value"]. */
+  placeholders: string[];
+  /** Cooldown per level, or null. */
+  cooldown: number[] | null;
+  /** Initial cooldown per level, or null. */
+  initial: number[] | null;
+  /** Every numeric row: name -> array of per-level values. */
+  curves: Record<string, number[]>;
+  /**
+   * Rows whose per-level value is itself several slash-separated numbers, e.g. "1.8/0.7/0.4"
+   * (damage falloff by distance band). Shape: name -> per level -> number[].
+   */
+  tieredCurves?: Record<string, number[][]>;
+  /** Rows that were not numeric (rare). */
+  singleValues: Record<string, string | string[]>;
+  /** How many levels this skill has (usually 10). */
+  levels: number;
+  /** True when the wiki page itself is an unfinished placeholder rather than real game data. */
+  isPlaceholder?: boolean;
+  /** Source page title on the wiki, for attribution. */
+  page: string;
+}
+
+export interface SkillData {
+  meta: {
+    source: string;
+    generatedAt: string;
+    dollsWithSkills: number;
+    totalSkillEntries: number;
+    modEntries: number;
+    note: string;
+  };
+  skills: Record<string, DollSkill[]>;
 }
 
 export interface DollData {

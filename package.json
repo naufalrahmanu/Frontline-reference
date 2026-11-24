@@ -12,12 +12,15 @@
     "typecheck": "tsc --noEmit",
     "data:maps": "python scripts/build-maps.py",
     "data:dolls": "node scripts/fetch-dolls.mjs",
+    "data:skills": "node scripts/fetch-skills.mjs",
     "data:verify": "node scripts/verify-formulas.ts",
     "check:echelon": "node scripts/check-echelon.ts",
     "check:presets": "node scripts/check-presets.ts",
+    "check:skills": "node scripts/check-skills.ts",
     "verify:dolls": "node scripts/verify-dolls.mjs",
+    "verify:skills": "node scripts/verify-skills.mjs",
     "check:render": "node scripts/render-check.mjs",
-    "check": "npm run typecheck && npm run data:verify && npm run check:echelon && npm run check:presets && npm run check:render",
+    "check": "npm run typecheck && npm run data:verify && npm run check:echelon && npm run check:presets && npm run check:skills && npm run check:render",
     "snapshot": "node scripts/snapshot.mjs"
   },
   "dependencies": {

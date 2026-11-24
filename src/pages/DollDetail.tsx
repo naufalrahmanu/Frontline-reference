@@ -1,6 +1,8 @@
+import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { dollBySlug, dolls } from "../lib/data.ts";
+import { dollBySlug, dolls, loadSkills, loadedSkills, skillsOf } from "../lib/data.ts";
 import { TileGrid, describeTiles } from "../components/TileGrid.tsx";
+import { SkillPanel } from "../components/SkillPanel.tsx";
 import {
   buffedPositions,
   parseAura,
@@ -12,11 +14,40 @@ import {
 } from "../lib/echelon.ts";
 import { fmtInt } from "../lib/format.ts";
 import { NotFound } from "./NotFound.tsx";
-import type { Doll, StatRange } from "../lib/dolls.ts";
+import type { Doll, DollSkill, StatRange } from "../lib/dolls.ts";
 
 export function DollDetail() {
   const { slug } = useParams<{ slug: string }>();
   const doll = slug ? dollBySlug(slug) : undefined;
+
+  /**
+   * The full skill dataset is code-split, so it arrives one tick after first paint. That is a
+   * deliberate trade: it keeps the doll *list* from paying for 760 KB it never displays.
+   *
+   * If the data is already in memory (a second visit to a doll page, or a server render that
+   * pre-loaded it) the first render has it and there is no placeholder flash.
+   */
+  const [skills, setSkills] = useState<DollSkill[] | null>(() => {
+    const cached = loadedSkills();
+    if (!cached || !doll) return null;
+    return skillsOf(cached, doll);
+  });
+
+  useEffect(() => {
+    if (skills !== null) return undefined;
+    let cancelled = false;
+    if (!doll) return undefined;
+    loadSkills()
+      .then((data) => {
+        if (!cancelled) setSkills(skillsOf(data, doll));
+      })
+      .catch(() => {
+        if (!cancelled) setSkills([]);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [doll, skills]);
 
   if (!doll) return <NotFound />;
 
@@ -166,6 +197,17 @@ export function DollDetail() {
           prose, shown alongside it rather than replacing it.
         </p>
       </section>
+
+      {skills === null ? (
+        <section className="card" style={{ marginTop: 24 }}>
+          <h2 style={{ marginTop: 0, fontSize: "1rem" }}>Skills</h2>
+          <p className="small faint" style={{ marginBottom: 0 }}>
+            Loading skill data…
+          </p>
+        </section>
+      ) : (
+        <SkillPanel skills={skills} />
+      )}
 
       <CoverageByPosition doll={doll} />
 

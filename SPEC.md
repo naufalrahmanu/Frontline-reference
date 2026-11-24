@@ -37,7 +37,7 @@ winner between the tools before there is usage data.
 | Area | What ships | Notes |
 |---|---|---|
 | **Farming Explorer** | All 572 autobattle maps, sortable/filterable table, 5 user-adjustable assumptions, live recomputation, ranking views | The flagship. Default filter: EN-released only. |
-| **Doll Database** | All EN dolls, table + per-doll detail page with 3×3 tile buff grid | Limited fields only (see §5). |
+| **Doll Database** | All EN dolls, table + per-doll detail page with 3×3 tile buff grid and full skill text with a level selector | Limited stat fields, but skills are complete. See §5. |
 | **Start Here** | One long page, ~1,500–2,000 words | The new-player entry point. |
 | **Echelon presets** | 6 archetypal formations, static | Useful even if the builder never ships. |
 | **Builder (minimal)** | 3×3 drag grid, tile buff aggregation per doll, shareable URL | *Stretch goal.* May be cut. |
@@ -143,7 +143,47 @@ releasedOnEN,
 portrait: null         // reserved field, populated in v1.1
 ```
 
-Skill text is **not** captured in v1. The schema leaves room for it without migration.
+Skill text is captured in a **separate dataset** (`src/data/skills.json`), because it does not
+live on the doll page at all — see §5.5.
+
+### 5.5 Skills
+
+Skills are not in a doll's wikitext. That template carries stats, auras and tiles only. Skills
+live on **subpages** of the doll page, as MediaWiki `gf-table` markup:
+
+```
+Kar98k/skilldata        base skill
+Kar98k/skilldata/mod1   the MOD1 upgrade of it
+Kar98k/skill2data       the secondary skill, unlocked at MOD2
+```
+
+Each table is a key/value block: `name`, `icon` and `text` are single values, and every other row
+is a per-level curve of ten numbers. The description is a template with `($placeholder)` tokens
+that refer to those curves, which is what makes a level selector meaningful rather than cosmetic.
+
+Extraction (`scripts/fetch-skills.mjs`) reads the source subpages through `action=query` with
+`prop=revisions`, batching ~40 titles per request, and caches raw wikitext so re-parsing is free.
+Reading the subpage rather than the rendered doll page matters: on the rendered page the same skill
+table appears once per MOD tab with no attribute identifying which MOD each copy belongs to, while
+the subpage title states it directly.
+
+Three source irregularities are handled explicitly, each of which silently produced wrong output
+before it was found:
+
+| Irregularity | Symptom if unhandled |
+|---|---|
+| A cell's value begins on the line *after* the pipe (`! text` / `\| colspan=10 \|` / text…) | Empty description (Type 100 MOD1) |
+| A value is slash-separated bands, e.g. `1.8/0.7/0.4` | Placeholder never resolves, raw token in prose (12 skills, e.g. StG44) |
+| A page is an unfinished placeholder (K7 is literally named "Placeholder Name") | A joke presented as game data |
+
+Coverage: **623 skill entries across 459 of 460 dolls**, including 82 MOD1 variants. KGP-9 has no
+skill page on the wiki; K7's entry is flagged `isPlaceholder` and labelled as unfinished rather than
+invented.
+
+The dataset is verified two ways: `scripts/verify-skills.mjs` re-reads all 623 wiki pages with an
+independent parser and compares name, cooldown curve, description and placeholder existence
+(3,227 field checks), while `scripts/check-skills.ts` renders every skill at all ten levels and
+asserts no placeholder token survives (19,307 assertions).
 
 ### 5.4 Licensing
 
@@ -282,5 +322,4 @@ Both are part of `npm run check`.
 
 - Composition validation rules
 - Doll comparison mode
-- Skill text and cooldown data
 - Whether the builder earned its place, judged by analytics

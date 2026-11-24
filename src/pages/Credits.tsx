@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { dollMeta, mapMeta } from "../lib/data.ts";
+import { dollMeta, mapMeta, skillStats } from "../lib/data.ts";
 
 export function Credits() {
   return (
@@ -55,9 +55,27 @@ export function Credits() {
         Dataset snapshot: {dollMeta.generatedAt} · {dollMeta.releasedOnEN} dolls released on EN of{" "}
         {dollMeta.totalDolls} parsed.
       </p>
+      <h2>Skill data</h2>
       <p>
-        Skill text is not reproduced on this site in v1. The field set is deliberately limited to
-        identification, max stats, aura prose and tile geometry.
+        Skill names, descriptions and per-level values come from each doll&apos;s skill subpages on
+        IOP Wiki (<span className="mono">&lt;Doll&gt;/skilldata</span>,{" "}
+        <span className="mono">&lt;Doll&gt;/skilldata/mod1</span>,{" "}
+        <span className="mono">&lt;Doll&gt;/skill2data</span>), under the same CC BY-SA 3.0 licence.
+      </p>
+      <p>
+        Descriptions are reproduced verbatim, including the wiki&apos;s{" "}
+        <span className="mono">($placeholder)</span> tokens, which are substituted with the value
+        for the level you select — so the wording is the wiki&apos;s and only the numbers move.
+      </p>
+      <p>
+        {skillStats.dollsWithSkillData} of {skillStats.totalDolls} dolls have skill data.{" "}
+        {skillStats.placeholderDolls > 0 && (
+          <>
+            {skillStats.placeholderDolls} page is an unfinished placeholder in the wiki source and is
+            labelled as such rather than filled in.{" "}
+          </>
+        )}
+        Where the wiki has no skill entry at all, none is shown.
       </p>
 
       <h2>Licences</h2>
