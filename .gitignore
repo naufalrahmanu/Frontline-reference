@@ -1,0 +1,22 @@
+# build output
+dist/
+node_modules/
+
+# local caches written by the data scripts — regenerable, never committed
+.cache/
+.pnpm-store/
+.npm-cache/
+.pw-browsers/
+.pw-profile/
+.shots/
+.snapshots/
+preview.html
+
+# editor / OS
+.DS_Store
+Thumbs.db
+*.log
+
+# The source spreadsheet is the origin of src/data/maps.json. It is kept in the repo because
+# regenerating the dataset without it is impossible, but it is not needed at build time.
+!Copy of GFL EN Autobattle Comparison.xlsx

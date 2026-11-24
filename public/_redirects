@@ -1,0 +1,6 @@
+# Single-page app fallback.
+#
+# Every route is client-side, so a direct hit on /dolls/kar98k must serve the app shell rather
+# than a 404. Static files take precedence over this rule, so assets are unaffected.
+/index.html /index.html 200
+/* /index.html 200

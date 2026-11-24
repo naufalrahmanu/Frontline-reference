@@ -1,0 +1,5722 @@
+{
+ "main-story-0-1-1": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 62400.0,
+  "expPerResource": 74.28571429,
+  "expPerHour": 62400.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 840.0,
+  "levelMultiplier": 1
+ },
+ "main-story-0-2-2": {
+  "weightedResources": 2250.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 156000.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 78000.0,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1125.0,
+  "levelMultiplier": 1
+ },
+ "main-story-0-3-3": {
+  "weightedResources": 3600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 78000.0,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-0-4-4": {
+  "weightedResources": 4800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 312000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 78000.0,
+  "expPerContract": 104000.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-1-1-5": {
+  "weightedResources": 18.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 2.777777778,
+  "expPerHour": 3000.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-2-6": {
+  "weightedResources": 60.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.8333333333,
+  "expPerHour": 300.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 360.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-3-7": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 150.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 360.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-4-8": {
+  "weightedResources": 165.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.303030303,
+  "expPerHour": 100.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 330.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-5-9": {
+  "weightedResources": 240.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.2083333333,
+  "expPerHour": 75.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 360.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-6-10": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 50.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 480.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-1e-11": {
+  "weightedResources": 240.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.2083333333,
+  "expPerHour": 100.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 480.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-2e-12": {
+  "weightedResources": 315.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1587301587,
+  "expPerHour": 75.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 472.5,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-3e-13": {
+  "weightedResources": 390.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1282051282,
+  "expPerHour": 60.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 468.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-4e-14": {
+  "weightedResources": 1080.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.0462962963,
+  "expPerHour": 33.33333333,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-1n-90001": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 50.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 480.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-2n-90002": {
+  "weightedResources": 840.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 30.0,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 504.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-1-3n-90003": {
+  "weightedResources": 1080.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 15600.0,
+  "expPerResource": 14.44444444,
+  "expPerHour": 7800.0,
+  "expPerContract": 7800.0,
+  "resourcesPerHour": 540.0,
+  "levelMultiplier": 0.2
+ },
+ "main-story-1-4n-90004": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 29952.0,
+  "expPerResource": 12.48,
+  "expPerHour": 9984.0,
+  "expPerContract": 9984.0,
+  "resourcesPerHour": 800.0,
+  "levelMultiplier": 0.2
+ },
+ "main-story-2-1-15": {
+  "weightedResources": 270.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1851851852,
+  "expPerHour": 100.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 540.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-2-16": {
+  "weightedResources": 360.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1388888889,
+  "expPerHour": 75.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 540.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-3-17": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 60.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 576.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-4-18": {
+  "weightedResources": 555.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.09009009009,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 605.4545455,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-5-19": {
+  "weightedResources": 630.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.07936507937,
+  "expPerHour": 50.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 630.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-6-20": {
+  "weightedResources": 1080.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.0462962963,
+  "expPerHour": 37.5,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 810.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-1e-21": {
+  "weightedResources": 600.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.08333333333,
+  "expPerHour": 50.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 600.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-2e-22": {
+  "weightedResources": 720.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.06944444444,
+  "expPerHour": 42.85714286,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 617.1428571,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-3e-23": {
+  "weightedResources": 840.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 37.5,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 630.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-4e-24": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.02604166667,
+  "expPerHour": 25.0,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-2-1n-90005": {
+  "weightedResources": 1200.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 32448.0,
+  "expPerResource": 27.04,
+  "expPerHour": 16224.0,
+  "expPerContract": 16224.0,
+  "resourcesPerHour": 600.0,
+  "levelMultiplier": 0.4
+ },
+ "main-story-2-2n-90006": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 37440.0,
+  "expPerResource": 28.36363636,
+  "expPerHour": 17971.2,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 633.6,
+  "levelMultiplier": 0.4
+ },
+ "main-story-2-3n-90007": {
+  "weightedResources": 1680.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 67392.0,
+  "expPerResource": 40.11428571,
+  "expPerHour": 26956.8,
+  "expPerContract": 22464.0,
+  "resourcesPerHour": 672.0,
+  "levelMultiplier": 0.6
+ },
+ "main-story-2-4n-90008": {
+  "weightedResources": 2550.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 97344.0,
+  "expPerResource": 38.17411765,
+  "expPerHour": 32448.0,
+  "expPerContract": 32448.0,
+  "resourcesPerHour": 850.0,
+  "levelMultiplier": 0.6
+ },
+ "main-story-3-1-25": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 75.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-3-2-26": {
+  "weightedResources": 720.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.06944444444,
+  "expPerHour": 50.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-3-3-27": {
+  "weightedResources": 600.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.08333333333,
+  "expPerHour": 60.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-3-4-28": {
+  "weightedResources": 840.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 42.85714286,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-3-5-29": {
+  "weightedResources": 960.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05208333333,
+  "expPerHour": 37.5,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "main-story-3-6-30": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 19968.0,
+  "expPerResource": 11.09333333,
+  "expPerHour": 9984.0,
+  "expPerContract": 9984.0,
+  "resourcesPerHour": 900.0,
+  "levelMultiplier": 0.2
+ },
+ "main-story-3-1e-31": {
+  "weightedResources": 1200.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 14976.0,
+  "expPerResource": 12.48,
+  "expPerHour": 8985.6,
+  "expPerContract": 7488.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": 0.2
+ },
+ "main-story-3-2e-32": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 17472.0,
+  "expPerResource": 13.23636364,
+  "expPerHour": 9530.181818,
+  "expPerContract": 8736.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": 0.2
+ },
+ "main-story-3-3e-33": {
+  "weightedResources": 1620.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 19968.0,
+  "expPerResource": 12.32592593,
+  "expPerHour": 9216.0,
+  "expPerContract": 6656.0,
+  "resourcesPerHour": 747.6923077,
+  "levelMultiplier": 0.2
+ },
+ "main-story-3-4e-34": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 20.8,
+  "expPerHour": 19968.0,
+  "expPerContract": 16640.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 0.4
+ },
+ "main-story-3-1n-90009": {
+  "weightedResources": 1680.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 99840.0,
+  "expPerResource": 59.42857143,
+  "expPerHour": 42788.57143,
+  "expPerContract": 33280.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": 0.8
+ },
+ "main-story-3-2n-90010": {
+  "weightedResources": 2130.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 127296.0,
+  "expPerResource": 59.76338028,
+  "expPerHour": 44928.0,
+  "expPerContract": 42432.0,
+  "resourcesPerHour": 751.7647059,
+  "levelMultiplier": 0.8
+ },
+ "main-story-3-3n-90011": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 174720.0,
+  "expPerResource": 72.8,
+  "expPerHour": 55174.73684,
+  "expPerContract": 58240.0,
+  "resourcesPerHour": 757.8947368,
+  "levelMultiplier": 1
+ },
+ "main-story-3-4n-90012": {
+  "weightedResources": 3150.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 199680.0,
+  "expPerResource": 63.39047619,
+  "expPerHour": 57051.42857,
+  "expPerContract": 66560.0,
+  "resourcesPerHour": 900.0,
+  "levelMultiplier": 1
+ },
+ "main-story-4-1-35": {
+  "weightedResources": 630.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7488.0,
+  "expPerResource": 11.88571429,
+  "expPerHour": 8985.6,
+  "expPerContract": 7488.0,
+  "resourcesPerHour": 756.0,
+  "levelMultiplier": 0.2
+ },
+ "main-story-4-2-36": {
+  "weightedResources": 1080.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 11.55555556,
+  "expPerHour": 9360.0,
+  "expPerContract": 6240.0,
+  "resourcesPerHour": 810.0,
+  "levelMultiplier": 0.2
+ },
+ "main-story-4-3-37": {
+  "weightedResources": 1200.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 28704.0,
+  "expPerResource": 23.92,
+  "expPerHour": 19136.0,
+  "expPerContract": 14352.0,
+  "resourcesPerHour": 800.0,
+  "levelMultiplier": 0.4
+ },
+ "main-story-4-4-38": {
+  "weightedResources": 1290.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 29952.0,
+  "expPerResource": 23.21860465,
+  "expPerHour": 18917.05263,
+  "expPerContract": 14976.0,
+  "resourcesPerHour": 814.7368421,
+  "levelMultiplier": 0.4
+ },
+ "main-story-4-5-39": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 42432.0,
+  "expPerResource": 23.57333333,
+  "expPerHour": 19584.0,
+  "expPerContract": 14144.0,
+  "resourcesPerHour": 830.7692308,
+  "levelMultiplier": 0.4
+ },
+ "main-story-4-6-40": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 20.8,
+  "expPerHour": 19968.0,
+  "expPerContract": 16640.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 0.4
+ },
+ "main-story-4-1e-41": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 34944.0,
+  "expPerResource": 24.26666667,
+  "expPerHour": 20966.4,
+  "expPerContract": 17472.0,
+  "resourcesPerHour": 864.0,
+  "levelMultiplier": 0.4
+ },
+ "main-story-4-2e-42": {
+  "weightedResources": 1620.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 61776.0,
+  "expPerResource": 38.13333333,
+  "expPerHour": 33696.0,
+  "expPerContract": 30888.0,
+  "resourcesPerHour": 883.6363636,
+  "levelMultiplier": 0.6
+ },
+ "main-story-4-3e-43": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 69264.0,
+  "expPerResource": 38.48,
+  "expPerHour": 34632.0,
+  "expPerContract": 34632.0,
+  "resourcesPerHour": 900.0,
+  "levelMultiplier": 0.6
+ },
+ "main-story-4-4e-44": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 97344.0,
+  "expPerResource": 33.8,
+  "expPerHour": 32448.0,
+  "expPerContract": 32448.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 0.6
+ },
+ "main-story-4-1n-90013": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 140400.0,
+  "expPerResource": 78.0,
+  "expPerHour": 64800.0,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 830.7692308,
+  "levelMultiplier": 1
+ },
+ "main-story-4-2n-90014": {
+  "weightedResources": 1590.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 118560.0,
+  "expPerResource": 74.56603774,
+  "expPerHour": 64669.09091,
+  "expPerContract": 59280.0,
+  "resourcesPerHour": 867.2727273,
+  "levelMultiplier": 1
+ },
+ "main-story-4-3n-90015": {
+  "weightedResources": 2040.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 73.41176471,
+  "expPerHour": 64182.85714,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 874.2857143,
+  "levelMultiplier": 1
+ },
+ "main-story-4-4n-90016": {
+  "weightedResources": 3600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 58500.0,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 900.0,
+  "levelMultiplier": 1
+ },
+ "main-story-5-1-45": {
+  "weightedResources": 1680.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 59904.0,
+  "expPerResource": 35.65714286,
+  "expPerHour": 29952.0,
+  "expPerContract": 29952.0,
+  "resourcesPerHour": 840.0,
+  "levelMultiplier": 0.6
+ },
+ "main-story-5-2-46": {
+  "weightedResources": 795.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 28080.0,
+  "expPerResource": 35.32075472,
+  "expPerHour": 30632.72727,
+  "expPerContract": 28080.0,
+  "resourcesPerHour": 867.2727273,
+  "levelMultiplier": 0.6
+ },
+ "main-story-5-3-47": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 34.32,
+  "expPerHour": 30888.0,
+  "expPerContract": 27456.0,
+  "resourcesPerHour": 900.0,
+  "levelMultiplier": 0.6
+ },
+ "main-story-5-4-48": {
+  "weightedResources": 1560.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 58032.0,
+  "expPerResource": 37.2,
+  "expPerHour": 33161.14286,
+  "expPerContract": 29016.0,
+  "resourcesPerHour": 891.4285714,
+  "levelMultiplier": 0.6
+ },
+ "main-story-5-5-49": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 67392.0,
+  "expPerResource": 35.1,
+  "expPerHour": 32348.16,
+  "expPerContract": 22464.0,
+  "resourcesPerHour": 921.6,
+  "levelMultiplier": 0.6
+ },
+ "main-story-5-6-50": {
+  "weightedResources": 2610.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 119808.0,
+  "expPerResource": 45.90344828,
+  "expPerHour": 44928.0,
+  "expPerContract": 39936.0,
+  "resourcesPerHour": 978.75,
+  "levelMultiplier": 0.8
+ },
+ "main-story-5-1e-51": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 119808.0,
+  "expPerResource": 49.92,
+  "expPerHour": 47923.2,
+  "expPerContract": 39936.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 0.8
+ },
+ "main-story-5-2e-52": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 89856.0,
+  "expPerResource": 46.8,
+  "expPerHour": 44928.0,
+  "expPerContract": 44928.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 0.8
+ },
+ "main-story-5-3e-53": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 168480.0,
+  "expPerResource": 58.5,
+  "expPerHour": 56160.0,
+  "expPerContract": 56160.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-5-4e-54": {
+  "weightedResources": 3000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 168480.0,
+  "expPerResource": 56.16,
+  "expPerHour": 56160.0,
+  "expPerContract": 56160.0,
+  "resourcesPerHour": 1000.0,
+  "levelMultiplier": 1
+ },
+ "main-story-5-1n-90017": {
+  "weightedResources": 2640.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 70.90909091,
+  "expPerHour": 62400.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 880.0,
+  "levelMultiplier": 1
+ },
+ "main-story-5-2n-90018": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 202800.0,
+  "expPerResource": 70.41666667,
+  "expPerHour": 64042.10526,
+  "expPerContract": 67600.0,
+  "resourcesPerHour": 909.4736842,
+  "levelMultiplier": 1
+ },
+ "main-story-5-3n-90019": {
+  "weightedResources": 3240.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 64182.85714,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 925.7142857,
+  "levelMultiplier": 1
+ },
+ "main-story-5-4n-90020": {
+  "weightedResources": 3900.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 243360.0,
+  "expPerResource": 62.4,
+  "expPerHour": 60840.0,
+  "expPerContract": 81120.0,
+  "resourcesPerHour": 975.0,
+  "levelMultiplier": 1
+ },
+ "main-story-6-1-55": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 94848.0,
+  "expPerResource": 49.4,
+  "expPerHour": 47424.0,
+  "expPerContract": 47424.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 0.8
+ },
+ "main-story-6-2-56": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 97344.0,
+  "expPerResource": 50.7,
+  "expPerHour": 48672.0,
+  "expPerContract": 48672.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 0.8
+ },
+ "main-story-6-3-57": {
+  "weightedResources": 2040.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 99840.0,
+  "expPerResource": 48.94117647,
+  "expPerHour": 46080.0,
+  "expPerContract": 33280.0,
+  "resourcesPerHour": 941.5384615,
+  "levelMultiplier": 0.8
+ },
+ "main-story-6-4-58": {
+  "weightedResources": 2160.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 134160.0,
+  "expPerResource": 62.11111111,
+  "expPerHour": 57497.14286,
+  "expPerContract": 44720.0,
+  "resourcesPerHour": 925.7142857,
+  "levelMultiplier": 1
+ },
+ "main-story-6-5-59": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 62.4,
+  "expPerHour": 59904.0,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-6-6-60": {
+  "weightedResources": 3600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 202800.0,
+  "expPerResource": 56.33333333,
+  "expPerHour": 57942.85714,
+  "expPerContract": 67600.0,
+  "resourcesPerHour": 1028.571429,
+  "levelMultiplier": 1
+ },
+ "main-story-6-1e-61": {
+  "weightedResources": 2160.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 63.55555556,
+  "expPerHour": 61013.33333,
+  "expPerContract": 45760.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-6-2e-62": {
+  "weightedResources": 2520.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 159120.0,
+  "expPerResource": 63.14285714,
+  "expPerHour": 61594.83871,
+  "expPerContract": 53040.0,
+  "resourcesPerHour": 975.483871,
+  "levelMultiplier": 1
+ },
+ "main-story-6-3e-63": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 62400.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-6-4e-64": {
+  "weightedResources": 4050.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 57.77777778,
+  "expPerHour": 58500.0,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1012.5,
+  "levelMultiplier": 1
+ },
+ "main-story-6-1n-90021": {
+  "weightedResources": 3840.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 265200.0,
+  "expPerResource": 69.0625,
+  "expPerHour": 66300.0,
+  "expPerContract": 88400.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-6-2n-90022": {
+  "weightedResources": 3120.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 218400.0,
+  "expPerResource": 70.0,
+  "expPerHour": 68968.42105,
+  "expPerContract": 72800.0,
+  "resourcesPerHour": 985.2631579,
+  "levelMultiplier": 1
+ },
+ "main-story-6-3n-90023": {
+  "weightedResources": 4800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 343200.0,
+  "expPerResource": 71.5,
+  "expPerHour": 68640.0,
+  "expPerContract": 114400.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-6-4n-90024": {
+  "weightedResources": 6000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 374400.0,
+  "expPerResource": 62.4,
+  "expPerHour": 62400.0,
+  "expPerContract": 124800.0,
+  "resourcesPerHour": 1000.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-1-65": {
+  "weightedResources": 1080.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 98280.0,
+  "expPerResource": 91.0,
+  "expPerHour": 90720.0,
+  "expPerContract": 49140.0,
+  "resourcesPerHour": 996.9230769,
+  "levelMultiplier": 1
+ },
+ "main-story-7-2-66": {
+  "weightedResources": 1200.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 84240.0,
+  "expPerResource": 70.2,
+  "expPerHour": 67392.0,
+  "expPerContract": 42120.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-3-67": {
+  "weightedResources": 1680.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 129480.0,
+  "expPerResource": 77.07142857,
+  "expPerHour": 73988.57143,
+  "expPerContract": 64740.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-4-68": {
+  "weightedResources": 2160.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 171600.0,
+  "expPerResource": 79.44444444,
+  "expPerHour": 76266.66667,
+  "expPerContract": 57200.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-5-69": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 62400.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-6-70": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 62400.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 960.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-1e-71": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 118560.0,
+  "expPerResource": 65.86666667,
+  "expPerHour": 64669.09091,
+  "expPerContract": 59280.0,
+  "resourcesPerHour": 981.8181818,
+  "levelMultiplier": 1
+ },
+ "main-story-7-2e-72": {
+  "weightedResources": 2640.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 174720.0,
+  "expPerResource": 66.18181818,
+  "expPerHour": 65520.0,
+  "expPerContract": 58240.0,
+  "resourcesPerHour": 990.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-3e-73": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 64182.85714,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 987.4285714,
+  "levelMultiplier": 1
+ },
+ "main-story-7-4e-74": {
+  "weightedResources": 4800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 280800.0,
+  "expPerResource": 58.5,
+  "expPerHour": 62400.0,
+  "expPerContract": 93600.0,
+  "resourcesPerHour": 1066.666667,
+  "levelMultiplier": 1
+ },
+ "main-story-7-1n-90025": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 74880.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-2n-90026": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 199680.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 74880.0,
+  "expPerContract": 66560.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": 1
+ },
+ "main-story-7-3n-90027": {
+  "weightedResources": 4800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 343200.0,
+  "expPerResource": 71.5,
+  "expPerHour": 77705.66038,
+  "expPerContract": 114400.0,
+  "resourcesPerHour": 1086.792453,
+  "levelMultiplier": 1
+ },
+ "main-story-7-4n-90028": {
+  "weightedResources": 6000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 374400.0,
+  "expPerResource": 62.4,
+  "expPerHour": 68072.72727,
+  "expPerContract": 124800.0,
+  "resourcesPerHour": 1090.909091,
+  "levelMultiplier": 1
+ },
+ "main-story-8-1-75": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 102960.0,
+  "expPerResource": 71.5,
+  "expPerHour": 77220.0,
+  "expPerContract": 51480.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": 1
+ },
+ "main-story-8-2-76": {
+  "weightedResources": 1680.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 118560.0,
+  "expPerResource": 70.57142857,
+  "expPerHour": 74880.0,
+  "expPerContract": 59280.0,
+  "resourcesPerHour": 1061.052632,
+  "levelMultiplier": 1
+ },
+ "main-story-8-3-77": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 74880.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": 1
+ },
+ "main-story-8-4-78": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 131040.0,
+  "expPerResource": 68.25,
+  "expPerHour": 74880.0,
+  "expPerContract": 65520.0,
+  "resourcesPerHour": 1097.142857,
+  "levelMultiplier": 1
+ },
+ "main-story-8-5-79": {
+  "weightedResources": 2040.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 67.29411765,
+  "expPerHour": 74880.0,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1112.727273,
+  "levelMultiplier": 1
+ },
+ "main-story-8-6-80": {
+  "weightedResources": 3840.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 58.5,
+  "expPerHour": 74880.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "main-story-8-1e-81": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 162240.0,
+  "expPerResource": 67.6,
+  "expPerHour": 74880.0,
+  "expPerContract": 54080.0,
+  "resourcesPerHour": 1107.692308,
+  "levelMultiplier": 1
+ },
+ "main-story-8-2e-82": {
+  "weightedResources": 2640.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 174720.0,
+  "expPerResource": 66.18181818,
+  "expPerHour": 74880.0,
+  "expPerContract": 58240.0,
+  "resourcesPerHour": 1131.428571,
+  "levelMultiplier": 1
+ },
+ "main-story-8-3e-83": {
+  "weightedResources": 3360.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 66.85714286,
+  "expPerHour": 74880.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1120.0,
+  "levelMultiplier": 1
+ },
+ "main-story-8-4e-84": {
+  "weightedResources": 4800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 299520.0,
+  "expPerResource": 62.4,
+  "expPerHour": 74880.0,
+  "expPerContract": 99840.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-8-1n-90029": {
+  "weightedResources": 3480.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 249600.0,
+  "expPerResource": 71.72413793,
+  "expPerHour": 78821.05263,
+  "expPerContract": 83200.0,
+  "resourcesPerHour": 1098.947368,
+  "levelMultiplier": 1
+ },
+ "main-story-8-2n-90030": {
+  "weightedResources": 3000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 218400.0,
+  "expPerResource": 72.8,
+  "expPerHour": 81900.0,
+  "expPerContract": 72800.0,
+  "resourcesPerHour": 1125.0,
+  "levelMultiplier": 1
+ },
+ "main-story-8-3n-90031": {
+  "weightedResources": 3240.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 237120.0,
+  "expPerResource": 73.18518519,
+  "expPerHour": 83689.41176,
+  "expPerContract": 79040.0,
+  "resourcesPerHour": 1143.529412,
+  "levelMultiplier": 1
+ },
+ "main-story-8-4n-90032": {
+  "weightedResources": 4200.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 249600.0,
+  "expPerResource": 59.42857143,
+  "expPerHour": 71314.28571,
+  "expPerContract": 83200.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-9-1-85": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 131040.0,
+  "expPerResource": 68.25,
+  "expPerHour": 78624.0,
+  "expPerContract": 65520.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": 1
+ },
+ "main-story-9-2-86": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 78821.05263,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1136.842105,
+  "levelMultiplier": 1
+ },
+ "main-story-9-3-87": {
+  "weightedResources": 2520.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 171600.0,
+  "expPerResource": 68.0952381,
+  "expPerHour": 79200.0,
+  "expPerContract": 57200.0,
+  "resourcesPerHour": 1163.076923,
+  "levelMultiplier": 1
+ },
+ "main-story-9-4-88": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 196560.0,
+  "expPerResource": 68.25,
+  "expPerHour": 78624.0,
+  "expPerContract": 65520.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": 1
+ },
+ "main-story-9-5-89": {
+  "weightedResources": 2160.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 81687.27273,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1178.181818,
+  "levelMultiplier": 1
+ },
+ "main-story-9-6-90": {
+  "weightedResources": 3360.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 202800.0,
+  "expPerResource": 60.35714286,
+  "expPerHour": 76050.0,
+  "expPerContract": 67600.0,
+  "resourcesPerHour": 1260.0,
+  "levelMultiplier": 1
+ },
+ "main-story-9-1e-91": {
+  "weightedResources": 2640.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 180960.0,
+  "expPerResource": 68.54545455,
+  "expPerHour": 80426.66667,
+  "expPerContract": 60320.0,
+  "resourcesPerHour": 1173.333333,
+  "levelMultiplier": 1
+ },
+ "main-story-9-2e-92": {
+  "weightedResources": 3360.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 66.85714286,
+  "expPerHour": 79284.70588,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1185.882353,
+  "levelMultiplier": 1
+ },
+ "main-story-9-3e-93": {
+  "weightedResources": 2040.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 140400.0,
+  "expPerResource": 68.82352941,
+  "expPerHour": 80228.57143,
+  "expPerContract": 70200.0,
+  "resourcesPerHour": 1165.714286,
+  "levelMultiplier": 1
+ },
+ "main-story-9-4e-94": {
+  "weightedResources": 4200.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 262080.0,
+  "expPerResource": 62.4,
+  "expPerHour": 74880.0,
+  "expPerContract": 87360.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-9-1n-90033": {
+  "weightedResources": 5760.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 327600.0,
+  "expPerResource": 56.875,
+  "expPerHour": 77082.35294,
+  "expPerContract": 109200.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "main-story-9-2n-90034": {
+  "weightedResources": 3000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 74.88,
+  "expPerHour": 77019.42857,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1028.571429,
+  "levelMultiplier": 1
+ },
+ "main-story-9-3n-90035": {
+  "weightedResources": 3600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 205920.0,
+  "expPerResource": 57.2,
+  "expPerHour": 58834.28571,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1028.571429,
+  "levelMultiplier": 1
+ },
+ "main-story-9-4n-90036": {
+  "weightedResources": 3360.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 55.71428571,
+  "expPerHour": 46800.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 840.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-1-95": {
+  "weightedResources": 3150.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 218400.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 81900.0,
+  "expPerContract": 72800.0,
+  "resourcesPerHour": 1181.25,
+  "levelMultiplier": 1
+ },
+ "main-story-10-2-96": {
+  "weightedResources": 4800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 312000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 78000.0,
+  "expPerContract": 104000.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-3-97": {
+  "weightedResources": 3000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 202800.0,
+  "expPerResource": 67.6,
+  "expPerHour": 81120.0,
+  "expPerContract": 67600.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-4-98": {
+  "weightedResources": 3480.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 64.55172414,
+  "expPerHour": 81687.27273,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1265.454545,
+  "levelMultiplier": 1
+ },
+ "main-story-10-5-99": {
+  "weightedResources": 3600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 82588.23529,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1270.588235,
+  "levelMultiplier": 1
+ },
+ "main-story-10-6-100": {
+  "weightedResources": 3600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 62.4,
+  "expPerHour": 74880.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-1e-101": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 243360.0,
+  "expPerResource": 65.41935484,
+  "expPerHour": 81120.0,
+  "expPerContract": 81120.0,
+  "resourcesPerHour": 1240.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-2e-102": {
+  "weightedResources": 3150.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 205920.0,
+  "expPerResource": 65.37142857,
+  "expPerHour": 82368.0,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1260.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-3e-103": {
+  "weightedResources": 4320.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 280800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 80228.57143,
+  "expPerContract": 93600.0,
+  "resourcesPerHour": 1234.285714,
+  "levelMultiplier": 1
+ },
+ "main-story-10-4e-104": {
+  "weightedResources": 4200.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 265200.0,
+  "expPerResource": 63.14285714,
+  "expPerHour": 75771.42857,
+  "expPerContract": 88400.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-1n-90037": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 75.83333333,
+  "expPerHour": 81900.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-2n-90038": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 99840.0,
+  "expPerResource": 75.63636364,
+  "expPerHour": 85577.14286,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1131.428571,
+  "levelMultiplier": 1
+ },
+ "main-story-10-3n-90039": {
+  "weightedResources": 1560.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 118560.0,
+  "expPerResource": 76.0,
+  "expPerHour": 88920.0,
+  "expPerContract": 59280.0,
+  "resourcesPerHour": 1170.0,
+  "levelMultiplier": 1
+ },
+ "main-story-10-4n-90040": {
+  "weightedResources": 3240.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 249600.0,
+  "expPerResource": 77.03703704,
+  "expPerHour": 83200.0,
+  "expPerContract": 83200.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": 1
+ },
+ "main-story-11-1-105": {
+  "weightedResources": 6600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 436800.0,
+  "expPerResource": 66.18181818,
+  "expPerHour": 81900.0,
+  "expPerContract": 145600.0,
+  "resourcesPerHour": 1237.5,
+  "levelMultiplier": 1
+ },
+ "main-story-11-2-106": {
+  "weightedResources": 3120.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 205920.0,
+  "expPerResource": 66.0,
+  "expPerHour": 82368.0,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1248.0,
+  "levelMultiplier": 1
+ },
+ "main-story-11-3-107": {
+  "weightedResources": 4800.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 312000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 104000.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "main-story-11-4-108": {
+  "weightedResources": 3360.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 66.85714286,
+  "expPerHour": 84240.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1260.0,
+  "levelMultiplier": 1
+ },
+ "main-story-11-5-109": {
+  "weightedResources": 3030.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 274560.0,
+  "expPerResource": 90.61386139,
+  "expPerHour": 113611.0345,
+  "expPerContract": 91520.0,
+  "resourcesPerHour": 1253.793103,
+  "levelMultiplier": 1
+ },
+ "main-story-11-6-110": {
+  "weightedResources": 2760.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 174720.0,
+  "expPerResource": 63.30434783,
+  "expPerHour": 77653.33333,
+  "expPerContract": 58240.0,
+  "resourcesPerHour": 1226.666667,
+  "levelMultiplier": 1
+ },
+ "main-story-11-1e-111": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 65.68421053,
+  "expPerHour": 81687.27273,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1243.636364,
+  "levelMultiplier": 1
+ },
+ "main-story-11-2e-112": {
+  "weightedResources": 3480.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 230880.0,
+  "expPerResource": 66.34482759,
+  "expPerHour": 83956.36364,
+  "expPerContract": 76960.0,
+  "resourcesPerHour": 1265.454545,
+  "levelMultiplier": 1
+ },
+ "main-story-11-3e-113": {
+  "weightedResources": 7200.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 468000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 81391.30435,
+  "expPerContract": 156000.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "main-story-11-4e-114": {
+  "weightedResources": 3600.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 62.4,
+  "expPerHour": 81687.27273,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1309.090909,
+  "levelMultiplier": 1
+ },
+ "main-story-12-1-115": {
+  "weightedResources": 2160.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 81687.27273,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1178.181818,
+  "levelMultiplier": 1
+ },
+ "main-story-12-2-116": {
+  "weightedResources": 3240.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 84240.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1215.0,
+  "levelMultiplier": 1
+ },
+ "main-story-12-3-117": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 99840.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 85577.14286,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1234.285714,
+  "levelMultiplier": 1
+ },
+ "main-story-12-4-118": {
+  "weightedResources": 1200.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 90480.0,
+  "expPerResource": 75.4,
+  "expPerHour": 83520.0,
+  "expPerContract": 45240.0,
+  "resourcesPerHour": 1107.692308,
+  "levelMultiplier": 1
+ },
+ "main-story-12-5-119": {
+  "weightedResources": 1560.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 118560.0,
+  "expPerResource": 76.0,
+  "expPerHour": 83689.41176,
+  "expPerContract": 59280.0,
+  "resourcesPerHour": 1101.176471,
+  "levelMultiplier": 1
+ },
+ "main-story-12-6-120": {
+  "weightedResources": 3120.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 243360.0,
+  "expPerResource": 78.0,
+  "expPerHour": 85891.76471,
+  "expPerContract": 81120.0,
+  "resourcesPerHour": 1101.176471,
+  "levelMultiplier": 1
+ },
+ "main-story-12-1e-121": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 131040.0,
+  "expPerResource": 68.25,
+  "expPerHour": 87360.0,
+  "expPerContract": 65520.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "main-story-12-2e-122": {
+  "weightedResources": 2520.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 74.28571429,
+  "expPerHour": 86400.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1163.076923,
+  "levelMultiplier": 1
+ },
+ "main-story-12-3e-123": {
+  "weightedResources": 1560.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 118560.0,
+  "expPerResource": 76.0,
+  "expPerHour": 83689.41176,
+  "expPerContract": 59280.0,
+  "resourcesPerHour": 1101.176471,
+  "levelMultiplier": 1
+ },
+ "main-story-12-4e-124": {
+  "weightedResources": 1200.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 93600.0,
+  "expPerResource": 78.0,
+  "expPerHour": 86400.0,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 1107.692308,
+  "levelMultiplier": 1
+ },
+ "main-story-13-1-125": {
+  "weightedResources": 1560.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 106080.0,
+  "expPerResource": 68.0,
+  "expPerHour": 84864.0,
+  "expPerContract": 53040.0,
+  "resourcesPerHour": 1248.0,
+  "levelMultiplier": 1
+ },
+ "main-story-13-2-126": {
+  "weightedResources": 1080.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 69.33333333,
+  "expPerHour": 81687.27273,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1178.181818,
+  "levelMultiplier": 1
+ },
+ "main-story-13-3-127": {
+  "weightedResources": 1680.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 117000.0,
+  "expPerResource": 69.64285714,
+  "expPerHour": 82588.23529,
+  "expPerContract": 58500.0,
+  "resourcesPerHour": 1185.882353,
+  "levelMultiplier": 1
+ },
+ "main-story-13-4-128": {
+  "weightedResources": 1200.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 96720.0,
+  "expPerResource": 80.6,
+  "expPerHour": 89280.0,
+  "expPerContract": 48360.0,
+  "resourcesPerHour": 1107.692308,
+  "levelMultiplier": 1
+ },
+ "main-story-13-5-129": {
+  "weightedResources": 540.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 39000.0,
+  "expPerResource": 72.22222222,
+  "expPerHour": 86666.66667,
+  "expPerContract": 39000.0,
+  "resourcesPerHour": 1200.0,
+  "levelMultiplier": 1
+ },
+ "main-story-13-6-130": {
+  "weightedResources": 720.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 63960.0,
+  "expPerResource": 88.83333333,
+  "expPerHour": 91371.42857,
+  "expPerContract": 63960.0,
+  "resourcesPerHour": 1028.571429,
+  "levelMultiplier": 1
+ },
+ "main-story-13-1e-131": {
+  "weightedResources": 1980.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 152880.0,
+  "expPerResource": 77.21212121,
+  "expPerHour": 83389.09091,
+  "expPerContract": 76440.0,
+  "resourcesPerHour": 1080.0,
+  "levelMultiplier": 1
+ },
+ "main-story-13-2e-132": {
+  "weightedResources": 2760.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 205920.0,
+  "expPerResource": 74.60869565,
+  "expPerHour": 85208.27586,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1142.068966,
+  "levelMultiplier": 1
+ },
+ "main-story-13-3e-133": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 101400.0,
+  "expPerResource": 76.81818182,
+  "expPerHour": 86914.28571,
+  "expPerContract": 50700.0,
+  "resourcesPerHour": 1131.428571,
+  "levelMultiplier": 1
+ },
+ "main-story-13-4e-134": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 205920.0,
+  "expPerResource": 85.8,
+  "expPerHour": 95040.0,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1107.692308,
+  "levelMultiplier": 1
+ },
+ "aw-1-1-10005": {
+  "weightedResources": 660.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.07575757576,
+  "expPerHour": 60.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 792.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "aw-1-2-10006": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03472222222,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": "10 EXP"
+ },
+ "aw-1-3-10007": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.02777777778,
+  "expPerHour": 40.0,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "aw-1-4-10008": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 34944.0,
+  "expPerResource": 18.2,
+  "expPerHour": 24666.35294,
+  "expPerContract": 17472.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 0.4
+ },
+ "aw-2-1-10009": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 22464.0,
+  "expPerResource": 17.01818182,
+  "expPerHour": 24506.18182,
+  "expPerContract": 22464.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.4
+ },
+ "aw-2-2-10010": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 41558.4,
+  "expPerResource": 28.86,
+  "expPerHour": 38361.6,
+  "expPerContract": 20779.2,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "aw-2-3-10011": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 28454.4,
+  "expPerResource": 29.64,
+  "expPerHour": 37939.2,
+  "expPerContract": 28454.4,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.6
+ },
+ "aw-2-4-10012": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 69888.0,
+  "expPerResource": 38.82666667,
+  "expPerHour": 55910.4,
+  "expPerContract": 34944.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "aw-3-1-10013": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 104832.0,
+  "expPerResource": 54.6,
+  "expPerHour": 73999.05882,
+  "expPerContract": 52416.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "aw-3-2-10014": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 54912.0,
+  "expPerResource": 57.2,
+  "expPerHour": 73216.0,
+  "expPerContract": 54912.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "aw-3-3-10015": {
+  "weightedResources": 2520.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 157872.0,
+  "expPerResource": 62.64761905,
+  "expPerHour": 75778.56,
+  "expPerContract": 52624.0,
+  "resourcesPerHour": 1209.6,
+  "levelMultiplier": 1
+ },
+ "aw-3-4-10016": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 179712.0,
+  "expPerResource": 62.4,
+  "expPerHour": 79872.0,
+  "expPerContract": 59904.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "cube-1-1-10018": {
+  "weightedResources": 1140.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.04385964912,
+  "expPerHour": 31.57894737,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "cube-1-2-10019": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03787878788,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "cube-1-3-10020": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 26208.0,
+  "expPerResource": 18.2,
+  "expPerHour": 24192.0,
+  "expPerContract": 13104.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.4
+ },
+ "cube-1-4-10021": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 59904.0,
+  "expPerResource": 31.2,
+  "expPerHour": 42285.17647,
+  "expPerContract": 29952.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 0.6
+ },
+ "cube-2-1-10022": {
+  "weightedResources": 1560.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 78624.0,
+  "expPerResource": 50.4,
+  "expPerHour": 62899.2,
+  "expPerContract": 39312.0,
+  "resourcesPerHour": 1248.0,
+  "levelMultiplier": 0.8
+ },
+ "cube-2-2-10023": {
+  "weightedResources": 1080.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 71760.0,
+  "expPerResource": 66.44444444,
+  "expPerHour": 78283.63636,
+  "expPerContract": 71760.0,
+  "resourcesPerHour": 1178.181818,
+  "levelMultiplier": 1
+ },
+ "cube-2-3-10024": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 62.4,
+  "expPerHour": 78135.65217,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "cube-2-4-10025": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "dd-1-1-10030": {
+  "weightedResources": 420.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.119047619,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "dd-1-2-10031": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "dd-1-3-10032": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 9360.0,
+  "expPerResource": 7.090909091,
+  "expPerHour": 10210.90909,
+  "expPerContract": 9360.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "dd-1-4-10033": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 39312.0,
+  "expPerResource": 27.3,
+  "expPerHour": 36288.0,
+  "expPerContract": 19656.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "dd-2-1-10034": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 37440.0,
+  "expPerResource": 28.36363636,
+  "expPerHour": 40843.63636,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "dd-2-2-10035": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 59904.0,
+  "expPerResource": 41.6,
+  "expPerHour": 55296.0,
+  "expPerContract": 29952.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dd-2-3-10037": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 140400.0,
+  "expPerResource": 58.5,
+  "expPerHour": 73252.17391,
+  "expPerContract": 70200.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "dd-2-4-10038": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 168480.0,
+  "expPerResource": 58.5,
+  "expPerHour": 74880.0,
+  "expPerContract": 56160.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "dd-3-1-10039": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 89856.0,
+  "expPerResource": 62.4,
+  "expPerHour": 82944.0,
+  "expPerContract": 44928.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "dd-3-2-10040": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 62.4,
+  "expPerHour": 78135.65217,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "dd-3-3-10041": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 62.90322581,
+  "expPerHour": 85090.90909,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "dd-3-4-10042": {
+  "weightedResources": 3240.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 202800.0,
+  "expPerResource": 62.59259259,
+  "expPerHour": 83917.24138,
+  "expPerContract": 67600.0,
+  "resourcesPerHour": 1340.689655,
+  "levelMultiplier": 1
+ },
+ "singu-ch1-starting-point-10051": {
+  "weightedResources": 420.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.119047619,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 720.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "singu-ch1-splinter-point-10052": {
+  "weightedResources": 240.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.2083333333,
+  "expPerHour": 120.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 576.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "singu-ch1-stroke-dead-center-i-10053": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03472222222,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": "10 EXP"
+ },
+ "singu-ch1-stroke-dead-center-ii-10054": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 14976.0,
+  "expPerResource": 7.8,
+  "expPerHour": 10571.29412,
+  "expPerContract": 7488.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 0.2
+ },
+ "singu-ch1-stroke-dead-center-iii-10055": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 14976.0,
+  "expPerResource": 15.6,
+  "expPerHour": 19968.0,
+  "expPerContract": 14976.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "singu-ch1-stroke-dead-center-iv-10056": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 39312.0,
+  "expPerResource": 27.3,
+  "expPerHour": 36288.0,
+  "expPerContract": 19656.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "singu-ch1-compression-initiates-i-10057": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03472222222,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": "10 EXP"
+ },
+ "singu-ch1-compression-initiates-ii-10058": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 13104.0,
+  "expPerResource": 7.28,
+  "expPerHour": 10483.2,
+  "expPerContract": 6552.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "singu-ch1-compression-initiates-iii-10059": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 29952.0,
+  "expPerResource": 15.6,
+  "expPerHour": 21142.58824,
+  "expPerContract": 14976.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 0.4
+ },
+ "singu-ch1-compression-initiates-iv-10060": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 39312.0,
+  "expPerResource": 27.3,
+  "expPerHour": 36288.0,
+  "expPerContract": 19656.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "singu-ch1-re-ignition-i-10061": {
+  "weightedResources": 2760.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 41184.0,
+  "expPerResource": 14.92173913,
+  "expPerHour": 19768.32,
+  "expPerContract": 13728.0,
+  "resourcesPerHour": 1324.8,
+  "levelMultiplier": 0.4
+ },
+ "singu-ch1-re-ignition-ii-10062": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 39312.0,
+  "expPerResource": 27.3,
+  "expPerHour": 36288.0,
+  "expPerContract": 19656.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "singu-ch1-re-ignition-iii-10063": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 19656.0,
+  "expPerResource": 23.4,
+  "expPerHour": 33696.0,
+  "expPerContract": 19656.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "singu-ch1-re-ignition-iv-10064": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 87360.0,
+  "expPerResource": 36.4,
+  "expPerHour": 45579.13043,
+  "expPerContract": 43680.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch1-messenger-10088": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 56160.0,
+  "expPerResource": 42.54545455,
+  "expPerHour": 61265.45455,
+  "expPerContract": 56160.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch2-splinter-point-10065": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 26208.0,
+  "expPerResource": 27.3,
+  "expPerHour": 34944.0,
+  "expPerContract": 26208.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.6
+ },
+ "singu-ch2-queen-s-gambit-i-10066": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 32760.0,
+  "expPerResource": 24.81818182,
+  "expPerHour": 35738.18182,
+  "expPerContract": 32760.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "singu-ch2-queen-s-gambit-ii-10067": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 37939.2,
+  "expPerResource": 39.52,
+  "expPerHour": 50585.6,
+  "expPerContract": 37939.2,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch2-queen-s-gambit-iii-10068": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 37939.2,
+  "expPerResource": 39.52,
+  "expPerHour": 50585.6,
+  "expPerContract": 37939.2,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch2-queen-s-gambit-iv-10069": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 71635.2,
+  "expPerResource": 39.79733333,
+  "expPerHour": 57308.16,
+  "expPerContract": 35817.6,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch2-castling-i-10070": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 40934.4,
+  "expPerResource": 42.64,
+  "expPerHour": 54579.2,
+  "expPerContract": 40934.4,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch2-castling-ii-10071": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 68640.0,
+  "expPerResource": 52.0,
+  "expPerHour": 74880.0,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-castling-iii-10072": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 123552.0,
+  "expPerResource": 54.18947368,
+  "expPerHour": 78032.84211,
+  "expPerContract": 61776.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-castling-iv-10073": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 117312.0,
+  "expPerResource": 61.1,
+  "expPerHour": 82808.47059,
+  "expPerContract": 58656.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-promotion-i-10074": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 94848.0,
+  "expPerResource": 39.52,
+  "expPerHour": 49485.91304,
+  "expPerContract": 47424.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch2-promotion-ii-10075": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 40934.4,
+  "expPerResource": 42.64,
+  "expPerHour": 54579.2,
+  "expPerContract": 40934.4,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.8
+ },
+ "singu-ch2-promotion-iii-10076": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 41184.0,
+  "expPerResource": 49.02857143,
+  "expPerHour": 70601.14286,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-promotion-iv-10077": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 146640.0,
+  "expPerResource": 61.1,
+  "expPerHour": 76507.82609,
+  "expPerContract": 73320.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-minor-pieces-draw-i-10078": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-minor-pieces-draw-ii-10079": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 117312.0,
+  "expPerResource": 61.1,
+  "expPerHour": 82808.47059,
+  "expPerContract": 58656.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-minor-pieces-draw-iii-10080": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 175968.0,
+  "expPerResource": 61.1,
+  "expPerHour": 78208.0,
+  "expPerContract": 58656.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-minor-pieces-draw-iv-10081": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 93600.0,
+  "expPerResource": 65.0,
+  "expPerHour": 86400.0,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "singu-ch2-survivor-10089": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 140400.0,
+  "expPerResource": 61.57894737,
+  "expPerHour": 88673.68421,
+  "expPerContract": 70200.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch3-last-resort-i-10082": {
+  "weightedResources": 3840.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 249600.0,
+  "expPerResource": 65.0,
+  "expPerHour": 85577.14286,
+  "expPerContract": 83200.0,
+  "resourcesPerHour": 1316.571429,
+  "levelMultiplier": 1
+ },
+ "singu-ch3-last-resort-ii-10083": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 140400.0,
+  "expPerResource": 61.57894737,
+  "expPerHour": 88673.68421,
+  "expPerContract": 70200.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch3-last-resort-iii-10084": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 62.90322581,
+  "expPerHour": 85090.90909,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "singu-ch3-last-resort-iv-10085": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 46800.0,
+  "expPerResource": 55.71428571,
+  "expPerHour": 80228.57143,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch3-last-resort-v-10086": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 62400.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch3-endgame-10087": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "singu-ch3-goodbye-dragon-palace-10090": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 46800.0,
+  "expPerResource": 55.71428571,
+  "expPerHour": 80228.57143,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch1-ground-zero-10156": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-waste-10106": {
+  "weightedResources": 240.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.2083333333,
+  "expPerHour": 120.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 576.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-nightfall-10107": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-safe-house-10108": {
+  "weightedResources": 720.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.06944444444,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 664.6153846,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-auxillary-power-10109": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05208333333,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-reserve-outpost-10110": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03787878788,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-farewell-scarecrow-10111": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-the-last-day-10113": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03787878788,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-a-bloodless-battlefield-10112": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-peace-negotiations-10114": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03472222222,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch1-fortunate-10115": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 11980.8,
+  "expPerResource": 8.32,
+  "expPerHour": 11059.2,
+  "expPerContract": 5990.4,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.2
+ },
+ "ct-ch1-sangvis-elite-outpot-10116": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 13104.0,
+  "expPerResource": 9.1,
+  "expPerHour": 12096.0,
+  "expPerContract": 6552.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.2
+ },
+ "ct-ch1-neural-fragments-10117": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 40435.2,
+  "expPerResource": 17.73473684,
+  "expPerHour": 25538.02105,
+  "expPerContract": 20217.6,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.4
+ },
+ "ct-ch1-darkest-desire-10118": {
+  "weightedResources": 4320.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 128044.8,
+  "expPerResource": 29.64,
+  "expPerHour": 39398.4,
+  "expPerContract": 42681.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "ct-ch1-final-destination-10145": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch2-unknown-enemy-10120": {
+  "weightedResources": 3360.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 139776.0,
+  "expPerResource": 41.6,
+  "expPerHour": 54106.83871,
+  "expPerContract": 46592.0,
+  "resourcesPerHour": 1300.645161,
+  "levelMultiplier": 0.8
+ },
+ "ct-ch2-support-10121": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 83865.6,
+  "expPerResource": 43.68,
+  "expPerHour": 59199.24706,
+  "expPerContract": 41932.8,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 0.8
+ },
+ "ct-ch2-griffin-expendables-10122": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 96096.0,
+  "expPerResource": 53.38666667,
+  "expPerHour": 76876.8,
+  "expPerContract": 48048.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-defense-outpost-2-10123": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 146640.0,
+  "expPerResource": 61.1,
+  "expPerHour": 76507.82609,
+  "expPerContract": 73320.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-defense-outpost-3-10124": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-just-kidding-10125": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 140400.0,
+  "expPerResource": 61.57894737,
+  "expPerHour": 88673.68421,
+  "expPerContract": 70200.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-defense-outpost-4-10126": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 62.90322581,
+  "expPerHour": 85090.90909,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-exploratory-attack-10127": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-general-offensive-10128": {
+  "weightedResources": 4320.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 280800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 86400.0,
+  "expPerContract": 93600.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-for-the-future-10129": {
+  "weightedResources": 4320.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 280800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 86400.0,
+  "expPerContract": 93600.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "ct-ch2-black-doll-10130": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch2-roaring-sun-10146": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch2-howl-of-terror-10147": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch2-safe-and-sound-10148": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch2-short-lived-peace-10149": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch2-final-flight-10150": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch3-elid-infected-10131": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch3-signal-flare-10132": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-red-zone-10133": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 143208.0,
+  "expPerResource": 62.81052632,
+  "expPerHour": 90447.15789,
+  "expPerContract": 71604.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-yellow-zone-10134": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 143208.0,
+  "expPerResource": 62.81052632,
+  "expPerHour": 90447.15789,
+  "expPerContract": 71604.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-vengeance-10135": {
+  "weightedResources": 2760.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 178464.0,
+  "expPerResource": 64.66086957,
+  "expPerHour": 85662.72,
+  "expPerContract": 59488.0,
+  "resourcesPerHour": 1324.8,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-mark-10136": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 165360.0,
+  "expPerResource": 68.9,
+  "expPerHour": 86274.78261,
+  "expPerContract": 82680.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-new-hope-10137": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 168480.0,
+  "expPerResource": 70.2,
+  "expPerHour": 87902.6087,
+  "expPerContract": 84240.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-sum-of-all-wraths-10142": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch3-vile-rats-10138": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 257400.0,
+  "expPerResource": 69.19354839,
+  "expPerHour": 93600.0,
+  "expPerContract": 85800.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-luck-10143": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch3-bad-news-10139": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 139776.0,
+  "expPerResource": 72.8,
+  "expPerHour": 98665.41176,
+  "expPerContract": 69888.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-ied-10140": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 106704.0,
+  "expPerResource": 74.1,
+  "expPerHour": 98496.0,
+  "expPerContract": 53352.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-stumbling-block-10141": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 90480.0,
+  "expPerResource": 68.54545455,
+  "expPerHour": 98705.45455,
+  "expPerContract": 90480.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-white-doll-10144": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 78.0,
+  "expPerHour": 99840.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "ct-ch3-final-order-10151": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch3-victor-10154": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ct-ch3-exile-10157": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch1-souvenir-10194": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 640.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch1-illusory-peace-i-10196": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.02192982456,
+  "expPerHour": 31.57894737,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch1-illusory-peace-iii-10199": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03787878788,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch1-cat-and-mouse-iii-10206": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03787878788,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch1-cat-and-mouse-iv-10208": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03472222222,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch1-beyond-the-border-ii-10210": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 21840.0,
+  "expPerResource": 9.1,
+  "expPerHour": 11394.78261,
+  "expPerContract": 10920.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 0.2
+ },
+ "iso-ch1-beyond-the-border-iii-10211": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 112320.0,
+  "expPerResource": 30.19354839,
+  "expPerHour": 40843.63636,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 0.6
+ },
+ "iso-ch2-faith-of-blood-i-10214": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 20.8,
+  "expPerHour": 26045.21739,
+  "expPerContract": 24960.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 0.4
+ },
+ "iso-ch2-faith-of-blood-ii-10217": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 101088.0,
+  "expPerResource": 44.33684211,
+  "expPerHour": 63845.05263,
+  "expPerContract": 50544.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "iso-ch2-wolf-and-owl-i-10221": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 39936.0,
+  "expPerResource": 20.8,
+  "expPerHour": 28190.11765,
+  "expPerContract": 19968.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 0.4
+ },
+ "iso-ch2-wolf-and-owl-ii-10223": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 23587.2,
+  "expPerResource": 28.08,
+  "expPerHour": 40435.2,
+  "expPerContract": 23587.2,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "iso-ch2-wolf-and-owl-iii-10225": {
+  "weightedResources": 3240.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 142771.2,
+  "expPerResource": 44.06518519,
+  "expPerHour": 59077.73793,
+  "expPerContract": 47590.4,
+  "resourcesPerHour": 1340.689655,
+  "levelMultiplier": 0.8
+ },
+ "iso-ch2-under-the-wall-i-10228": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 143520.0,
+  "expPerResource": 59.8,
+  "expPerHour": 74880.0,
+  "expPerContract": 71760.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ch3-lost-bargaining-chip-i-10231": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 175968.0,
+  "expPerResource": 61.1,
+  "expPerHour": 78208.0,
+  "expPerContract": 58656.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "iso-ch3-lost-bargaining-chip-iii-10233": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "iso-ch3-shark-and-the-sea-i-10236": {
+  "weightedResources": 2760.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 157872.0,
+  "expPerResource": 57.2,
+  "expPerHour": 75778.56,
+  "expPerContract": 52624.0,
+  "resourcesPerHour": 1324.8,
+  "levelMultiplier": 1
+ },
+ "iso-ch3-shark-and-the-sea-iii-10238": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 234000.0,
+  "expPerResource": 62.90322581,
+  "expPerHour": 85090.90909,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "iso-ch3-shark-and-the-sea-iv-10239": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 156000.0,
+  "expPerResource": 65.0,
+  "expPerHour": 81391.30435,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ch4-above-the-hubbub-ii-10245": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "iso-ch4-above-the-hubbub-iii-10247": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch4-above-the-hubbub-iv-10248": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ch4-above-the-hubbub-v-10249": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch1-illusory-peace-i-ex-10254": {
+  "weightedResources": 3240.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 202800.0,
+  "expPerResource": 62.59259259,
+  "expPerHour": 83917.24138,
+  "expPerContract": 67600.0,
+  "resourcesPerHour": 1340.689655,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch1-illusory-peace-iii-ex-10255": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 95472.0,
+  "expPerResource": 66.3,
+  "expPerHour": 88128.0,
+  "expPerContract": 47736.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch1-cat-and-mouse-iii-ex-10256": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 190944.0,
+  "expPerResource": 66.3,
+  "expPerHour": 84864.0,
+  "expPerContract": 63648.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch1-cat-and-mouse-iv-ex-10257": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 81120.0,
+  "expPerResource": 61.45454545,
+  "expPerHour": 88494.54545,
+  "expPerContract": 81120.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch1-beyond-the-border-ii-ex-10258": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 162240.0,
+  "expPerResource": 67.6,
+  "expPerHour": 84646.95652,
+  "expPerContract": 81120.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch1-beyond-the-border-iii-ex-10259": {
+  "weightedResources": 3840.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 264576.0,
+  "expPerResource": 68.9,
+  "expPerHour": 90711.77143,
+  "expPerContract": 88192.0,
+  "resourcesPerHour": 1316.571429,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch2-faith-of-blood-i-ex-10260": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 165360.0,
+  "expPerResource": 68.9,
+  "expPerHour": 86274.78261,
+  "expPerContract": 82680.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch2-faith-of-blood-ii-ex-10261": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 202176.0,
+  "expPerResource": 70.2,
+  "expPerHour": 89856.0,
+  "expPerContract": 67392.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch2-wolf-and-owl-i-ex-10262": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 168480.0,
+  "expPerResource": 70.2,
+  "expPerHour": 87902.6087,
+  "expPerContract": 84240.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch2-wolf-and-owl-ii-ex-10263": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 120120.0,
+  "expPerResource": 66.73333333,
+  "expPerHour": 96096.0,
+  "expPerContract": 60060.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch2-wolf-and-owl-iii-ex-10264": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 257400.0,
+  "expPerResource": 69.19354839,
+  "expPerHour": 93600.0,
+  "expPerContract": 85800.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch2-under-the-wall-i-ex-10265": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 174720.0,
+  "expPerResource": 72.8,
+  "expPerHour": 91158.26087,
+  "expPerContract": 87360.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch3-lost-bargaining-chip-i-ex-10266": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 262080.0,
+  "expPerResource": 70.4516129,
+  "expPerHour": 95301.81818,
+  "expPerContract": 87360.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch3-lost-bargaining-chip-iii-ex-10267": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 142272.0,
+  "expPerResource": 74.1,
+  "expPerHour": 100427.2941,
+  "expPerContract": 71136.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch3-shark-and-the-sea-i-ex-10268": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 177840.0,
+  "expPerResource": 74.1,
+  "expPerHour": 92786.08696,
+  "expPerContract": 88920.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch3-shark-and-the-sea-iii-ex-10269": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 271440.0,
+  "expPerResource": 72.96774194,
+  "expPerHour": 98705.45455,
+  "expPerContract": 90480.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch3-shark-and-the-sea-iv-ex-10270": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 180960.0,
+  "expPerResource": 75.4,
+  "expPerHour": 94413.91304,
+  "expPerContract": 90480.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch4-above-the-hubbub-ii-ex-10271": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 220896.0,
+  "expPerResource": 76.7,
+  "expPerHour": 98176.0,
+  "expPerContract": 73632.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "iso-ex-ch4-above-the-hubbub-iii-ex-10275": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ex-ch4-above-the-hubbub-iv-ex-10276": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "iso-ex-ch4-above-the-hubbub-v-ex-10272": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 78.0,
+  "expPerHour": 99840.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ch1-quiet-presence-10295": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 640.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "sc-ch1-reunion-with-old-friends-10299": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03472222222,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": "10 EXP"
+ },
+ "sc-ch1-bound-spirit-i-10301": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03787878788,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "sc-ch2-bound-spirit-ii-10303": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.02777777778,
+  "expPerHour": 40.0,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "sc-ch2-intangible-sigh-i-10305": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 120.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "sc-ch2-nameless-exiles-i-10307": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "sc-ch2-nameless-exiles-ii-10309": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7488.0,
+  "expPerResource": 7.8,
+  "expPerHour": 9984.0,
+  "expPerContract": 7488.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "sc-ch3-fractured-cognition-ii-10312": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 9984.0,
+  "expPerResource": 7.563636364,
+  "expPerHour": 10891.63636,
+  "expPerContract": 9984.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "sc-ch3-fractured-cognition-i-10314": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 16473.6,
+  "expPerResource": 17.16,
+  "expPerHour": 21964.8,
+  "expPerContract": 16473.6,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "sc-ch3-fractured-cognition-iv-10317": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 40435.2,
+  "expPerResource": 28.08,
+  "expPerHour": 37324.8,
+  "expPerContract": 20217.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "sc-ch4-subsurface-homecoming-ii-10321": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 42681.6,
+  "expPerResource": 29.64,
+  "expPerHour": 39398.4,
+  "expPerContract": 21340.8,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "sc-ch4-isomer-i-10323": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 99840.0,
+  "expPerResource": 41.6,
+  "expPerHour": 52090.43478,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 0.8
+ },
+ "sc-ch4-subsurface-homecoming-iii-10325": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 104832.0,
+  "expPerResource": 54.6,
+  "expPerHour": 73999.05882,
+  "expPerContract": 52416.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "sc-ch4-isomer-ii-10327": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 164736.0,
+  "expPerResource": 57.2,
+  "expPerHour": 73216.0,
+  "expPerContract": 54912.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ch5-a-rock-and-a-hard-place-10329": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 114816.0,
+  "expPerResource": 59.8,
+  "expPerHour": 81046.58824,
+  "expPerContract": 57408.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "sc-ch5-operation-defang-i-combat-i-10331": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 87984.0,
+  "expPerResource": 61.1,
+  "expPerHour": 81216.0,
+  "expPerContract": 43992.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "sc-ch5-operation-defang-i-combat-ii-10332": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 62.4,
+  "expPerHour": 78135.65217,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "sc-ch5-operation-defang-ii-10334": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 183456.0,
+  "expPerResource": 63.7,
+  "expPerHour": 81536.0,
+  "expPerContract": 61152.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ch5-farewell-tallinn-i-combat-i-10339": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "sc-ch5-farewell-tallinn-i-combat-ii-10340": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 187200.0,
+  "expPerResource": 65.0,
+  "expPerHour": 83200.0,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch1-quiet-presence-ex-10343": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 63648.0,
+  "expPerResource": 66.3,
+  "expPerHour": 84864.0,
+  "expPerContract": 63648.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch1-reunion-with-old-friends-ex-10344": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 95472.0,
+  "expPerResource": 66.3,
+  "expPerHour": 88128.0,
+  "expPerContract": 47736.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch1-bound-spirit-i-ex-10345": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 81120.0,
+  "expPerResource": 61.45454545,
+  "expPerHour": 88494.54545,
+  "expPerContract": 81120.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch2-bound-spirit-ii-ex-10346": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 113568.0,
+  "expPerResource": 63.09333333,
+  "expPerHour": 90854.4,
+  "expPerContract": 56784.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch2-intangible-sigh-i-ex-10347": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 32448.0,
+  "expPerResource": 67.6,
+  "expPerHour": 77875.2,
+  "expPerContract": 32448.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch2-nameless-exiles-i-ex-10348": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 48672.0,
+  "expPerResource": 57.94285714,
+  "expPerHour": 83437.71429,
+  "expPerContract": 48672.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch2-nameless-exiles-ii-ex-10349": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 66144.0,
+  "expPerResource": 68.9,
+  "expPerHour": 88192.0,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch3-fractured-cognition-ii-ex-10350": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 82680.0,
+  "expPerResource": 62.63636364,
+  "expPerHour": 90196.36364,
+  "expPerContract": 82680.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch3-fractured-cognition-i-ex-10351": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 67392.0,
+  "expPerResource": 70.2,
+  "expPerHour": 89856.0,
+  "expPerContract": 67392.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch3-fractured-cognition-iv-ex-10352": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 102960.0,
+  "expPerResource": 71.5,
+  "expPerHour": 95040.0,
+  "expPerContract": 51480.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch4-subsurface-homecoming-ii-ex-10353": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 102960.0,
+  "expPerResource": 71.5,
+  "expPerHour": 95040.0,
+  "expPerContract": 51480.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch4-isomer-i-ex-10354": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 174720.0,
+  "expPerResource": 72.8,
+  "expPerHour": 91158.26087,
+  "expPerContract": 87360.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch4-subsurface-homecoming-iii-ex-10355": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 142272.0,
+  "expPerResource": 74.1,
+  "expPerHour": 100427.2941,
+  "expPerContract": 71136.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch4-isomer-ii-ex-10356": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 213408.0,
+  "expPerResource": 74.1,
+  "expPerHour": 94848.0,
+  "expPerContract": 71136.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch5-a-rock-and-a-hard-place-ex-10357": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 144768.0,
+  "expPerResource": 75.4,
+  "expPerHour": 102189.1765,
+  "expPerContract": 72384.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch5-operation-defang-i-combat-i-ex-10358": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 108576.0,
+  "expPerResource": 75.4,
+  "expPerHour": 100224.0,
+  "expPerContract": 54288.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch5-operation-defang-i-combat-ii-ex-10359": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 184080.0,
+  "expPerResource": 76.7,
+  "expPerHour": 96041.73913,
+  "expPerContract": 92040.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch5-operation-defang-ii-ex-10360": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 78.0,
+  "expPerHour": 99840.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch5-farewell-tallinn-i-i-ex-10363": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 78.0,
+  "expPerHour": 105712.9412,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "sc-ex-ch5-farewell-tallinn-i-ii-ex-10364": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 224640.0,
+  "expPerResource": 78.0,
+  "expPerHour": 99840.0,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "pl-ch1-propagation-ii-10389": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05208333333,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch1-critical-angle-ii-10390": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch1-reflector-ii-10419": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05208333333,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch1-reflector-iii-10391": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.02604166667,
+  "expPerHour": 35.29411765,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch1-total-internal-reflection-ii-10392": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.01344086022,
+  "expPerHour": 18.18181818,
+  "expPerContract": 16.66666667,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch1-reversibility-ii-10393": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05208333333,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch2-polarizer-ii-10396": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7737.6,
+  "expPerResource": 8.06,
+  "expPerHour": 10316.8,
+  "expPerContract": 7737.6,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "pl-ch2-polarizer-iii-10420": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch2-waveguide-ii-10394": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05208333333,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch2-interferometer-ii-10395": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05208333333,
+  "expPerHour": 66.66666667,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pl-ch2-spectrometer-ii-10397": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7987.2,
+  "expPerResource": 8.32,
+  "expPerHour": 10649.6,
+  "expPerContract": 7987.2,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "pl-ch3-enantiomer-overload-iii-10398": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 16972.8,
+  "expPerResource": 17.68,
+  "expPerHour": 22630.4,
+  "expPerContract": 16972.8,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "pl-ch3-recrystallization-resolution-iii-10422": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 8736.0,
+  "expPerResource": 9.1,
+  "expPerHour": 11648.0,
+  "expPerContract": 8736.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "pl-ch3-shattered-plane-of-polarization-iii-10421": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 6552.0,
+  "expPerResource": 7.8,
+  "expPerHour": 11232.0,
+  "expPerContract": 6552.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "pl-ch3-asymmetric-induction-ii-10399": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 17472.0,
+  "expPerResource": 18.2,
+  "expPerHour": 23296.0,
+  "expPerContract": 17472.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "pl-ch4-milling-ii-10403": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 62899.2,
+  "expPerResource": 43.68,
+  "expPerHour": 58060.8,
+  "expPerContract": 31449.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-pre-heating-ii-10405": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 62899.2,
+  "expPerResource": 43.68,
+  "expPerHour": 58060.8,
+  "expPerContract": 31449.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-foam-stabilization-ii-10407": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 62899.2,
+  "expPerResource": 43.68,
+  "expPerHour": 58060.8,
+  "expPerContract": 31449.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-annealing-i-10424": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-annealing-iii-10425": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-tempering-ii-10400": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 62899.2,
+  "expPerResource": 43.68,
+  "expPerHour": 58060.8,
+  "expPerContract": 31449.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-cutting-ii-10401": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 62899.2,
+  "expPerResource": 43.68,
+  "expPerHour": 58060.8,
+  "expPerContract": 31449.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-silvering-ii-10402": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 62899.2,
+  "expPerResource": 43.68,
+  "expPerHour": 58060.8,
+  "expPerContract": 31449.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pl-ch4-silvering-iii-10404": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "pl-ch5-observable-limits-ii-10409": {
+  "weightedResources": 3720.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 205920.0,
+  "expPerResource": 55.35483871,
+  "expPerHour": 74880.0,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1352.727273,
+  "levelMultiplier": 1
+ },
+ "pl-ch5-observable-limits-iii-10406": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "pl-ch5-light-cone-frame-of-reference-ii-10408": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "pl-ch5-blackbody-radiation-ii-10410": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "pl-ch5-escape-acceleration-ii-10411": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "pl-ex-ch2-vacuum-tube-ex-10412": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 127296.0,
+  "expPerResource": 66.3,
+  "expPerHour": 89856.0,
+  "expPerContract": 63648.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pl-ex-ch1-critical-angle-ex-i-10413": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pl-ex-ch1-critical-angle-ex-ii-10414": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 71.5,
+  "expPerHour": 96903.52941,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pl-ex-ch4-foam-stabilization-ex-10415": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 142272.0,
+  "expPerResource": 74.1,
+  "expPerHour": 100427.2941,
+  "expPerContract": 71136.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pl-ex-ch5-observable-limits-ex-10416": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 78.0,
+  "expPerHour": 105712.9412,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pl-ex-ch4-annealing-ex-10423": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "dr-departure-time-1-10510": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 120.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "dr-pollinosis-2-10511": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-ghost-sisters-1-10512": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-1-10513": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-infernal-enlightenment-1-10514": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "dr-departure-time-ex-10515": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "dr-pollinosis-ex-10516": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "dr-ghost-sisters-ex-10517": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "dr-operation-snake-eater-ex-10518": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "dr-don-t-translate-10519": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 3120.0,
+  "expPerResource": 26.0,
+  "expPerHour": 37440.0,
+  "expPerContract": 3120.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "dr-vortex-of-secrets-10520": {
+  "weightedResources": 6000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 15600.0,
+  "expPerResource": 2.6,
+  "expPerHour": 5638.554217,
+  "expPerContract": 5200.0,
+  "resourcesPerHour": 2168.674699,
+  "levelMultiplier": 1
+ },
+ "dr-tide-of-blood-10521": {
+  "weightedResources": 6000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 15600.0,
+  "expPerResource": 2.6,
+  "expPerHour": 5638.554217,
+  "expPerContract": 5200.0,
+  "resourcesPerHour": 2168.674699,
+  "levelMultiplier": 1
+ },
+ "dr-trap-of-espionage-10522": {
+  "weightedResources": 6000.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 15600.0,
+  "expPerResource": 2.6,
+  "expPerHour": 5638.554217,
+  "expPerContract": 5200.0,
+  "resourcesPerHour": 2168.674699,
+  "levelMultiplier": 1
+ },
+ "dr-departure-time-10523": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 120.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "dr-pollinosis-10524": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-ghost-sisters-10525": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-10526": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "dr-infernal-enlightenment-10527": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "dr-rooftop-dash-10545": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 120.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "dr-departure-time-2-10950": {
+  "weightedResources": 480.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.1041666667,
+  "expPerHour": 120.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1152.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "dr-pollinosis-3-10951": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-4-10952": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-1-10953": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-5-10954": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-6-10955": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-7-10956": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-8-10957": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-9-10958": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-pollinosis-10-10959": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 12480.0,
+  "expPerResource": 13.0,
+  "expPerHour": 16640.0,
+  "expPerContract": 12480.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "dr-ghost-sisters-2-10960": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-3-10961": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-4-10962": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-5-10963": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-6-10964": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-7-10965": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-8-10966": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-9-10967": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-ghost-sisters-10-10968": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-2-10969": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-3-10970": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-4-10971": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-5-10972": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-6-10973": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-7-10974": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-8-10975": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-9-10976": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-operation-snake-eater-10-10977": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "dr-infernal-enlightenment-2-10978": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "dr-infernal-enlightenment-3-10979": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 109200.0,
+  "expPerResource": 60.66666667,
+  "expPerHour": 87360.0,
+  "expPerContract": 54600.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ms-wrestling-snakes-i-10633": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03472222222,
+  "expPerHour": 46.15384615,
+  "expPerContract": 25.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-the-birth-of-apate-ii-10634": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-hemera-points-to-the-light-ii-10635": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-shoulders-of-a-griffin-ii-10636": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7488.0,
+  "expPerResource": 7.8,
+  "expPerHour": 9984.0,
+  "expPerContract": 7488.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "ms-ship-of-theseus-ii-10637": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7987.2,
+  "expPerResource": 8.32,
+  "expPerHour": 10649.6,
+  "expPerContract": 7987.2,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "ms-ariadne-s-clew-ii-10638": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7987.2,
+  "expPerResource": 8.32,
+  "expPerHour": 10649.6,
+  "expPerContract": 7987.2,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "ms-cretan-labyrinth-ii-10639": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 16473.6,
+  "expPerResource": 17.16,
+  "expPerHour": 21964.8,
+  "expPerContract": 16473.6,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "ms-dreams-on-the-island-of-dia-ii-10640": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 17472.0,
+  "expPerResource": 18.2,
+  "expPerHour": 23296.0,
+  "expPerContract": 17472.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "ms-defying-the-moerae-ii-10641": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 24960.0,
+  "expPerResource": 26.0,
+  "expPerHour": 33280.0,
+  "expPerContract": 24960.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "ms-lachesis-measure-ii-10642": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 24960.0,
+  "expPerResource": 26.0,
+  "expPerHour": 33280.0,
+  "expPerContract": 24960.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "ms-clotho-s-thread-ii-10643": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 46800.0,
+  "expPerResource": 35.45454545,
+  "expPerHour": 51054.54545,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "ms-atropos-shears-ii-10644": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 46800.0,
+  "expPerResource": 35.45454545,
+  "expPerHour": 51054.54545,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "ms-nyx-s-night-iii-10645": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 62400.0,
+  "expPerResource": 47.27272727,
+  "expPerHour": 68072.72727,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "ms-hypnos-eyes-ii-10646": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 62400.0,
+  "expPerResource": 47.27272727,
+  "expPerHour": 68072.72727,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "ms-thanatos-kiss-ii-10647": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "ms-chaos-abyss-ii-10648": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 74880.0,
+  "expPerResource": 52.0,
+  "expPerHour": 69120.0,
+  "expPerContract": 37440.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "ms-wrestling-snakes-i-ex-10649": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 111384.0,
+  "expPerResource": 61.88,
+  "expPerHour": 89107.2,
+  "expPerContract": 55692.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ms-the-birth-of-apate-ii-ex-10650": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 111384.0,
+  "expPerResource": 61.88,
+  "expPerHour": 89107.2,
+  "expPerContract": 55692.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ms-hemera-points-to-the-light-ii-ex-10651": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 129792.0,
+  "expPerResource": 67.6,
+  "expPerHour": 91617.88235,
+  "expPerContract": 64896.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-shoulders-of-a-griffin-ii-ex-10652": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 129792.0,
+  "expPerResource": 67.6,
+  "expPerHour": 91617.88235,
+  "expPerContract": 64896.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-ship-of-theseus-ii-ex-10653": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-ariadne-s-clew-ii-ex-10654": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-cretan-labyrinth-ii-ex-10655": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 134784.0,
+  "expPerResource": 70.2,
+  "expPerHour": 95141.64706,
+  "expPerContract": 67392.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-dreams-on-the-island-of-dia-ii-ex-10656": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 134784.0,
+  "expPerResource": 70.2,
+  "expPerHour": 95141.64706,
+  "expPerContract": 67392.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-defying-the-moerae-ii-ex-10657": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-lachesis-measure-ii-ex-10658": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-clotho-s-thread-ii-ex-10659": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-atropos-shears-ii-ex-10660": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-nyx-s-night-iii-ex-10661": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-hypnos-eyes-ii-ex-10662": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-thanatos-kiss-ii-ex-10663": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-chaos-abyss-ii-ex-10664": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 124800.0,
+  "expPerResource": 65.0,
+  "expPerHour": 88094.11765,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "ms-an-arrow-in-flight-ii-10665": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-torricelli-s-trumpet-ii-10666": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-heraclitus-river-ii-10667": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-the-prisoner-s-dilemma-ii-10668": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-cratylus-river-ii-10669": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-achilles-and-the-tortoise-ii-10670": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-pandora-s-box-ii-10671": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-brain-in-a-vat-ii-10672": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-one-sided-recollection-10673": {
+  "weightedResources": 120.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.4166666667,
+  "expPerHour": 600.0,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "ms-the-real-10676": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 9360.0,
+  "expPerResource": 7.090909091,
+  "expPerHour": 10210.90909,
+  "expPerContract": 9360.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "ms-the-real-ex-10677": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 81120.0,
+  "expPerResource": 61.45454545,
+  "expPerHour": 88494.54545,
+  "expPerContract": 81120.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ms-the-imaginary-10678": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 21840.0,
+  "expPerResource": 16.54545455,
+  "expPerHour": 23825.45455,
+  "expPerContract": 21840.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.4
+ },
+ "ms-the-imaginary-ex-10679": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 84240.0,
+  "expPerResource": 63.81818182,
+  "expPerHour": 91898.18182,
+  "expPerContract": 84240.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ms-the-symbolic-10680": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 46800.0,
+  "expPerResource": 35.45454545,
+  "expPerHour": 51054.54545,
+  "expPerContract": 46800.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "ms-the-symbolic-ex-10681": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 78000.0,
+  "expPerResource": 59.09090909,
+  "expPerHour": 85090.90909,
+  "expPerContract": 78000.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "ms-gaze-10682": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 62400.0,
+  "expPerResource": 47.27272727,
+  "expPerHour": 68072.72727,
+  "expPerContract": 62400.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "ms-gaze-ex-10683": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 39000.0,
+  "expPerResource": 29.545454545454547,
+  "expPerHour": 42545.454545454544,
+  "expPerContract": 39000.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1.0
+ },
+ "freaky-pandemic-spoiled-staccato-10381": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.03787878788,
+  "expPerHour": 54.54545455,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "freaky-pandemic-open-bag-surprise-10382": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 9360.0,
+  "expPerResource": 7.090909091,
+  "expPerHour": 10210.90909,
+  "expPerContract": 9360.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "freaky-pandemic-shelf-life-10383": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 21840.0,
+  "expPerResource": 16.54545455,
+  "expPerHour": 23825.45455,
+  "expPerContract": 21840.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.4
+ },
+ "freaky-pandemic-preservative-10384": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "snowy-night-capriccio-sangvis-orphan-10385": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "snowy-night-capriccio-mission-dinergate-10386": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 5616.0,
+  "expPerResource": 6.685714286,
+  "expPerHour": 9627.428571,
+  "expPerContract": 5616.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "snowy-night-capriccio-x-dinergates-10387": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 17472.0,
+  "expPerResource": 18.2,
+  "expPerHour": 23296.0,
+  "expPerContract": 17472.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "snowy-night-capriccio-ode-to-gifts-10388": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "butterfly-in-a-cocoon-midnight-pursuit-10580": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 5616.0,
+  "expPerResource": 6.685714286,
+  "expPerHour": 9627.428571,
+  "expPerContract": 5616.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "butterfly-in-a-cocoon-no-more-omens-10581": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 33696.0,
+  "expPerResource": 25.52727273,
+  "expPerHour": 36759.27273,
+  "expPerContract": 33696.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "butterfly-in-a-cocoon-broken-echoes-10582": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "butterfly-in-a-cocoon-midnight-pursuit-ex-10583": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "butterfly-in-a-cocoon-no-more-omens-ex-10584": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 134784.0,
+  "expPerResource": 70.2,
+  "expPerHour": 95141.64706,
+  "expPerContract": 67392.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "butterfly-in-a-cocoon-broken-echoes-ex-10585": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 71.5,
+  "expPerHour": 96903.52941,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "butterfly-in-a-cocoon-nighttime-carnival-10586": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "butterfly-in-a-cocoon-nighttime-carnival-ex-10587": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 71.5,
+  "expPerHour": 96903.52941,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-3-10801": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pr-6-10802": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pr-9-10803": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pr-13-10804": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 50.0,
+  "expPerResource": 0.05952380952,
+  "expPerHour": 85.71428571,
+  "expPerContract": 50.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": "10 EXP"
+ },
+ "pr-iii-10805": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 5616.0,
+  "expPerResource": 6.685714286,
+  "expPerHour": 9627.428571,
+  "expPerContract": 5616.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "pr-vii-10806": {
+  "weightedResources": 840.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 5616.0,
+  "expPerResource": 6.685714286,
+  "expPerHour": 9627.428571,
+  "expPerContract": 5616.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.2
+ },
+ "pr-x-10807": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7987.2,
+  "expPerResource": 8.32,
+  "expPerHour": 10649.6,
+  "expPerContract": 7987.2,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "pr-xiii-10808": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 7987.2,
+  "expPerResource": 8.32,
+  "expPerHour": 10649.6,
+  "expPerContract": 7987.2,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.2
+ },
+ "pr-iiib-10809": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 16473.6,
+  "expPerResource": 17.16,
+  "expPerHour": 21964.8,
+  "expPerContract": 16473.6,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "pr-viib-10810": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 16473.6,
+  "expPerResource": 17.16,
+  "expPerHour": 21964.8,
+  "expPerContract": 16473.6,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "pr-iva-10811": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 17472.0,
+  "expPerResource": 18.2,
+  "expPerHour": 23296.0,
+  "expPerContract": 17472.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "pr-via-10812": {
+  "weightedResources": 960.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 17472.0,
+  "expPerResource": 18.2,
+  "expPerHour": 23296.0,
+  "expPerContract": 17472.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 0.4
+ },
+ "pr-delta-10813": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 33696.0,
+  "expPerResource": 25.52727273,
+  "expPerHour": 36759.27273,
+  "expPerContract": 33696.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "pr-zeta-10814": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 33696.0,
+  "expPerResource": 25.52727273,
+  "expPerHour": 36759.27273,
+  "expPerContract": 33696.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "pr-theta-10815": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 35568.0,
+  "expPerResource": 26.94545455,
+  "expPerHour": 38801.45455,
+  "expPerContract": 35568.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "pr-kappa-10816": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 42681.6,
+  "expPerResource": 29.64,
+  "expPerHour": 39398.4,
+  "expPerContract": 21340.8,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.6
+ },
+ "pr-10-0-10817": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 59904.0,
+  "expPerResource": 41.6,
+  "expPerHour": 55296.0,
+  "expPerContract": 29952.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pr-100-0-10818": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 49920.0,
+  "expPerResource": 37.81818182,
+  "expPerHour": 54458.18182,
+  "expPerContract": 49920.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "pr-1001-0-10819": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 62899.2,
+  "expPerResource": 43.68,
+  "expPerHour": 58060.8,
+  "expPerContract": 31449.6,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 0.8
+ },
+ "pr-111-0-10820": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 94348.8,
+  "expPerResource": 41.38105263,
+  "expPerHour": 59588.71579,
+  "expPerContract": 47174.4,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.8
+ },
+ "pr-hecta-10821": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "pr-micro-10822": {
+  "weightedResources": 1440.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 82368.0,
+  "expPerResource": 57.2,
+  "expPerHour": 76032.0,
+  "expPerContract": 41184.0,
+  "resourcesPerHour": 1329.230769,
+  "levelMultiplier": 1
+ },
+ "pr-centi-10823": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 131976.0,
+  "expPerResource": 57.88421053,
+  "expPerHour": 83353.26316,
+  "expPerContract": 65988.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "pr-mega-10824": {
+  "weightedResources": 1800.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 104832.0,
+  "expPerResource": 58.24,
+  "expPerHour": 83865.6,
+  "expPerContract": 52416.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "pr-6-ex-10825": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 127296.0,
+  "expPerResource": 66.3,
+  "expPerHour": 89856.0,
+  "expPerContract": 63648.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-13-ex-10826": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 129792.0,
+  "expPerResource": 67.6,
+  "expPerHour": 91617.88235,
+  "expPerContract": 64896.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-iii-ex-10827": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-vii-ex-10828": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-xiii-ex-10829": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 134784.0,
+  "expPerResource": 70.2,
+  "expPerHour": 95141.64706,
+  "expPerContract": 67392.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-iiib-ex-10830": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 71.5,
+  "expPerHour": 96903.52941,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-iva-ex-10831": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 139776.0,
+  "expPerResource": 72.8,
+  "expPerHour": 98665.41176,
+  "expPerContract": 69888.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-via-ex-10832": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 139776.0,
+  "expPerResource": 72.8,
+  "expPerHour": 98665.41176,
+  "expPerContract": 69888.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-delta-ex-10833": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 71.5,
+  "expPerHour": 96903.52941,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-theta-ex-10834": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 137280.0,
+  "expPerResource": 71.5,
+  "expPerHour": 96903.52941,
+  "expPerContract": 68640.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-kappa-ex-10835": {
+  "weightedResources": 2400.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 174720.0,
+  "expPerResource": 72.8,
+  "expPerHour": 91158.26087,
+  "expPerContract": 87360.0,
+  "resourcesPerHour": 1252.173913,
+  "levelMultiplier": 1
+ },
+ "pr-10-ex-10836": {
+  "weightedResources": 2280.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 157248.0,
+  "expPerResource": 68.96842105,
+  "expPerHour": 99314.52632,
+  "expPerContract": 78624.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 1
+ },
+ "pr-100-ex-10837": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 142272.0,
+  "expPerResource": 74.1,
+  "expPerHour": 100427.2941,
+  "expPerContract": 71136.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-1001-ex-10838": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 142272.0,
+  "expPerResource": 74.1,
+  "expPerHour": 100427.2941,
+  "expPerContract": 71136.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-111-ex-10839": {
+  "weightedResources": 2880.0,
+  "autoContractCost": 3.0,
+  "totalEchelonExp": 217152.0,
+  "expPerResource": 75.4,
+  "expPerHour": 96512.0,
+  "expPerContract": 72384.0,
+  "resourcesPerHour": 1280.0,
+  "levelMultiplier": 1
+ },
+ "pr-hecta-ex-10840": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 144768.0,
+  "expPerResource": 75.4,
+  "expPerHour": 102189.1765,
+  "expPerContract": 72384.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-micro-ex-10841": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 78.0,
+  "expPerHour": 105712.9412,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-mega-ex-10842": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 149760.0,
+  "expPerResource": 78.0,
+  "expPerHour": 105712.9412,
+  "expPerContract": 74880.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-discrete-evolution-10847": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 33696.0,
+  "expPerResource": 25.52727273,
+  "expPerHour": 36759.27273,
+  "expPerContract": 33696.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "pr-discrete-evolution-ex-10848": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ },
+ "pr-spin-echo-10849": {
+  "weightedResources": 1320.0,
+  "autoContractCost": 1.0,
+  "totalEchelonExp": 33696.0,
+  "expPerResource": 25.52727273,
+  "expPerHour": 36759.27273,
+  "expPerContract": 33696.0,
+  "resourcesPerHour": 1440.0,
+  "levelMultiplier": 0.6
+ },
+ "pr-spin-echo-ex-10850": {
+  "weightedResources": 1920.0,
+  "autoContractCost": 2.0,
+  "totalEchelonExp": 132288.0,
+  "expPerResource": 68.9,
+  "expPerHour": 93379.76471,
+  "expPerContract": 66144.0,
+  "resourcesPerHour": 1355.294118,
+  "levelMultiplier": 1
+ }
+}
