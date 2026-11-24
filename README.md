@@ -100,9 +100,13 @@ being dropped, and `N/A` stats parsing as zero.
 scripts/
   build-maps.py          xlsx -> maps.json
   fetch-dolls.mjs        IOP Wiki -> dolls.json
+  build-sitemap.mjs      data -> sitemap.xml
   verify-formulas.ts     engine vs. spreadsheet (4,004 comparisons)
   verify-dolls.mjs       dataset vs. rendered wiki pages
+  check-echelon.ts       tile geometry and aura parsing (70 assertions)
+  check-presets.ts       every shipped formation actually buffs someone
   render-check.mjs       SSR every route, assert data is present
+  render-entry.tsx       SSR entry used by render-check
   snapshot.mjs           write standalone HTML previews to .snapshots/
 src/
   lib/farming.ts         the autobattle formula engine
@@ -110,8 +114,8 @@ src/
   lib/dolls.ts           doll types
   lib/data.ts            static data access
   pages/                 one file per route
-  components/            TileGrid
-  data/                  generated JSON — do not hand-edit except for corrections
+  components/            TileGrid, DataStamp
+  data/                  generated JSON (CC BY-SA 3.0) — see LICENSE-DATA.md
 ```
 
 ## Corrections
@@ -125,9 +129,12 @@ Data is edited as JSON and committed; there is no admin UI and no database (see 
 
 ## Licences
 
-- **Code** — MIT.
-- **Data files** (`src/data/*.json`) — CC BY-SA 3.0, because doll facts derive from IOP Wiki.
+- **Code** (`src/`, `scripts/`) — MIT, see [`LICENSE`](./LICENSE).
+- **Data files** (`src/data/*.json`) — CC BY-SA 3.0, see
+  [`src/data/LICENSE-DATA.md`](./src/data/LICENSE-DATA.md), because the doll facts derive from
+  IOP Wiki. Attribution and share-alike apply to any redistribution.
 - **Guide prose** — original to this site.
 
 Girls' Frontline is the property of Sunborn Network Technology / MICA Team. This site is an
-unofficial, non-commercial fan reference and is not affiliated with them.
+unofficial, non-commercial fan reference and is not affiliated with them. No character artwork is
+hosted here.
