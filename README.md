@@ -28,6 +28,33 @@ npm run build        # type-check + production build into dist/
 npm run preview      # serve dist/ on :4173
 ```
 
+## Deploying
+
+This deploys as a **Cloudflare Worker with static assets**, not as Cloudflare Pages. The build and
+the deploy are separate steps, and the deploy needs `wrangler.toml` to say where the files are:
+
+```bash
+npm run build        # produces dist/
+npx wrangler deploy  # uploads dist/ per [assets] in wrangler.toml
+```
+
+`wrangler.toml` must contain:
+
+```toml
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
+```
+
+Without the `[assets]` block, `wrangler deploy` fails with *"Missing entry-point to Worker script or
+to assets directory"* — **after the build has already succeeded**, so the log looks like a build
+problem when it is not. Pages is a different product: it reads the output directory from the
+dashboard and does not use this file the same way.
+
+There is no `main` entry and no server code; the site is a static bundle. SPA fallback is declared
+once, in `wrangler.toml`. Do not also add a blanket `/* /index.html 200` to `_redirects` — two
+declarations of the same rule is how they drift apart.
+
 ## Checks
 
 These are the release gates. `npm run check` runs all the offline ones in order.

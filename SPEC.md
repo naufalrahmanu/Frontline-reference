@@ -290,10 +290,36 @@ Both are part of `npm run check`.
 - State: URL query params (shareable) + `localStorage` (sticky preferences). Both optional.
 - **No backend.** No auth, no database, no API routes. Formation sharing is URL-encoded.
 - Routing: client-side, but every route must be prerenderable/static so it can be indexed and shared.
-- Deploy: **Cloudflare Pages**, `*.pages.dev` subdomain. No custom domain.
+- Deploy: **Cloudflare Workers with static assets** (`npx wrangler deploy`), `*.workers.dev`
+  subdomain. No custom domain, no custom server.
+  - The original plan said "Cloudflare Pages", which is a different product with a different
+    configuration surface. The first real deploy failed because of it: Pages reads the output
+    directory from the dashboard, while `wrangler deploy` reads it from `wrangler.toml`. Without
+    an `[assets]` block Wrangler reports *"Missing entry-point to Worker script or to assets
+    directory"* and the deploy dies after a successful build. See §9.1.
 - Analytics: **Umami or Cloudflare Web Analytics** — cookieless, no consent banner.
 - Analytics decision drives a real decision later: if the doll database gets no traffic, the builder
   gets cut.
+
+### 9.1 Deploy configuration
+
+`wrangler.toml` declares:
+
+```toml
+name = "frontline-reference"
+compatibility_date = "2026-11-01"
+
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
+```
+
+- `[assets].directory` is what makes `wrangler deploy` upload anything at all. This is the
+  difference between a green build and a working deploy.
+- `not_found_handling` is the *single* declaration of SPA fallback. An earlier version also shipped
+  a `public/_redirects` with a blanket `/* /index.html 200`; that duplicated the rule, so the file
+  was deleted rather than left as a second, competing source of truth.
+- There is deliberately no `main` entry: the site has no server-side code.
 
 ## 10. Responsive strategy
 
